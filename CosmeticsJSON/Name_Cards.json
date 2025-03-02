@@ -1,0 +1,111 @@
+{
+    "Items": {
+        "Zenyatta": [
+            {
+                "name": "Cybermonk",
+                "code": "694004",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Zenyatta/Cybermonk.jpg"
+            }
+        ],
+        "Reaper": [
+            {
+                "name": "Calavera",
+                "code": "699585",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Reaper/Calavera.jpg"
+            }
+        ],
+        "All_Heroes": [
+            {
+                "name": "Celestial",
+                "code": "909667",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/All_Heroes/Celestial.jpg"
+            },
+            {
+                "name": "Harlequin",
+                "code": "1175135",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/All_Heroes/Harlequin.jpg"
+            },
+            {
+                "name": "Kabuki",
+                "code": "1175136",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/All_Heroes/Kabuki.jpg"
+            }
+        ],
+        "Ramattra": [
+            {
+                "name": "Biohazard",
+                "code": "1053951",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Ramattra/Biohazard.jpg"
+            }
+        ],
+        "Widowmaker": [
+            {
+                "name": "Medusa",
+                "code": "1057239",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Widowmaker/Medusa.jpg"
+            }
+        ],
+        "Reinhardt": [
+            {
+                "name": "Labyrinth",
+                "code": "1057240",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Reinhardt/Labyrinth.jpg"
+            }
+        ],
+        "Hanzo": [
+            {
+                "name": "Koi",
+                "code": "1057707",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Hanzo/Koi.jpg"
+            },
+            {
+                "name": "Cupid's_Target",
+                "code": "1116265",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Hanzo/Cupid's_Target.jpg"
+            }
+        ],
+        "Orisa": [
+            {
+                "name": "Constellations",
+                "code": "1057708",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Orisa/Constellations.jpg"
+            }
+        ],
+        "Ashe": [],
+        "Brigitte": [
+            {
+                "name": "Pearlescent_Shores",
+                "code": "1116314",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Brigitte/Pearlescent_Shores.jpg"
+            }
+        ],
+        "Mei": [
+            {
+                "name": "Golden_Dragon",
+                "code": "1116315",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Mei/Golden_Dragon.jpg"
+            }
+        ],
+        "Echo": [
+            {
+                "name": "Automaton",
+                "code": "1177702",
+                "price": 300,
+                "image": "http://localhost:3000/Cosmetics/Name_Cards/Echo/Automaton.jpg"
+            }
+        ]
+    }
+}

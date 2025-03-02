@@ -1,0 +1,31 @@
+body {
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    margin: 0;
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Adjusted to make it responsive */
+    gap: 9px;
+    padding: 20px;
+    background: #111;
+    border-radius: 10px;
+    max-width: calc(4 * 488px + 3 * 9px); /* Ensures grid is centered and doesn't overflow */
+    width: 100%; /* Allows centering */
+}
+.grid-item {
+    width: 100%; /* Make sure grid items take full width */
+    height: 263px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.grid-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,1670 @@
+{
+    "Items": {
+        "Pharah": [
+            {
+                "name": "Lion_Mask",
+                "code": "876183",
+                "price": 200
+            },
+            {
+                "name": "Jump_Jet",
+                "code": "877120",
+                "price": 75
+            },
+            {
+                "name": "Guardian",
+                "code": "877121",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "877130",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877292",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877856",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878041",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878213",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "881699",
+                "price": 200
+            }
+        ],
+        "Symmetra": [
+            {
+                "name": "Toast",
+                "code": "876186",
+                "price": 200
+            },
+            {
+                "name": "Creation",
+                "code": "877162",
+                "price": 75
+            },
+            {
+                "name": "Dance",
+                "code": "877163",
+                "price": 75
+            },
+            {
+                "name": "Balance",
+                "code": "877191",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877308",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878088",
+                "price": 200
+            },
+            {
+                "name": "Light_Reading",
+                "code": "878600",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878891",
+                "price": 200
+            },
+            {
+                "name": "Fan",
+                "code": "879588",
+                "price": 200
+            }
+        ],
+        "Torbjorn": [
+            {
+                "name": "Taking_A_Break",
+                "code": "876203",
+                "price": 200
+            },
+            {
+                "name": "Hammer",
+                "code": "876944",
+                "price": 75
+            },
+            {
+                "name": "Sitting_Pretty",
+                "code": "876945",
+                "price": 75
+            },
+            {
+                "name": "Take_five",
+                "code": "876964",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877894",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878035",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878212",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "878352",
+                "price": 200
+            },
+            {
+                "name": "Firework",
+                "code": "881465",
+                "price": 200
+            }
+        ],
+        "Baptiste": [
+            {
+                "name": "Hot_Soup",
+                "code": "876204",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "877809",
+                "price": 200
+            },
+            {
+                "name": "Ta-da!",
+                "code": "878089",
+                "price": 200
+            },
+            {
+                "name": "RANDOM",
+                "code": "881293",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "881314",
+                "price": 75
+            },
+            {
+                "name": "Peace_Out",
+                "code": "881319",
+                "price": 75
+            },
+            {
+                "name": "On_Alert",
+                "code": "881320",
+                "price": 75
+            },
+            {
+                "name": "Say_Cheese",
+                "code": "881321",
+                "price": 75
+            },
+            {
+                "name": "Vigilant",
+                "code": "1168951",
+                "price": 300
+            }
+        ],
+        "Lucio": [
+            {
+                "name": "Toast",
+                "code": "876206",
+                "price": 200
+            },
+            {
+                "name": "Ready_for_Action",
+                "code": "876716",
+                "price": 75
+            },
+            {
+                "name": "Confident",
+                "code": "876717",
+                "price": 75
+            },
+            {
+                "name": "Grooving",
+                "code": "876718",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877263",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878107",
+                "price": 200
+            },
+            {
+                "name": "Handstand",
+                "code": "878623",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin_Control",
+                "code": "878991",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "880385",
+                "price": 200
+            },
+            {
+                "name": "Drumming",
+                "code": "880652",
+                "price": 200
+            }
+        ],
+        "Wrecking_Ball": [
+            {
+                "name": "Imbibe",
+                "code": "876217",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "877652",
+                "price": 200
+            },
+            {
+                "name": "Heroic",
+                "code": "880316",
+                "price": 75
+            },
+            {
+                "name": "Lounging",
+                "code": "880322",
+                "price": 75
+            },
+            {
+                "name": "On_Top",
+                "code": "880323",
+                "price": 75
+            },
+            {
+                "name": "Peace",
+                "code": "880332",
+                "price": 75
+            },
+            {
+                "name": "Swing",
+                "code": "880408",
+                "price": 75
+            },
+            {
+                "name": "Nibbling",
+                "code": "880556",
+                "price": 200
+            },
+            {
+                "name": "Armament",
+                "code": "880632",
+                "price": 200
+            }
+        ],
+        "Mercy": [
+            {
+                "name": "Ready_for_battle",
+                "code": "876510",
+                "price": 75
+            },
+            {
+                "name": "Angelic",
+                "code": "876513",
+                "price": 75
+            },
+            {
+                "name": "Carefree",
+                "code": "876514",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877261",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878006",
+                "price": 200
+            },
+            {
+                "name": "Mistletoe",
+                "code": "878181",
+                "price": 200
+            },
+            {
+                "name": "Lantern",
+                "code": "878391",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878865",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878954",
+                "price": 200
+            },
+            {
+                "name": "Parasol",
+                "code": "880298",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "880526",
+                "price": 200
+            }
+        ],
+        "Hanzo": [
+            {
+                "name": "Over_the_Shoulder",
+                "code": "876537",
+                "price": 75
+            },
+            {
+                "name": "Confident",
+                "code": "876539",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "876540",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877285",
+                "price": 75
+            },
+            {
+                "name": "Salute",
+                "code": "877496",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878030",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878237",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878866",
+                "price": 200
+            },
+            {
+                "name": "Skewered",
+                "code": "878915",
+                "price": 200
+            },
+            {
+                "name": "Firework",
+                "code": "880647",
+                "price": 200
+            }
+        ],
+        "Cassidy": [
+            {
+                "name": "Contemplative",
+                "code": "876590",
+                "price": 75
+            },
+            {
+                "name": "Take_it_easy",
+                "code": "876591",
+                "price": 75
+            },
+            {
+                "name": "Over_the_Shoulder",
+                "code": "876592",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877262",
+                "price": 75
+            },
+            {
+                "name": "Flashbang",
+                "code": "877497",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878004",
+                "price": 200
+            },
+            {
+                "name": "Showdown",
+                "code": "878625",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878887",
+                "price": 200
+            },
+            {
+                "name": "Fire_in_the_Hole",
+                "code": "879590",
+                "price": 200
+            }
+        ],
+        "Zenyatta": [
+            {
+                "name": "Peace",
+                "code": "876642",
+                "price": 75
+            },
+            {
+                "name": "Balance",
+                "code": "876647",
+                "price": 75
+            },
+            {
+                "name": "Harmony",
+                "code": "876648",
+                "price": 75
+            },
+            {
+                "name": "Medals",
+                "code": "877846",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878012",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "878351",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878943",
+                "price": 200
+            },
+            {
+                "name": "Meditation",
+                "code": "881375",
+                "price": 200
+            },
+            {
+                "name": "Dōzo",
+                "code": "1078306",
+                "price": 300
+            }
+        ],
+        "Junkrat": [
+            {
+                "name": "Kneeling",
+                "code": "876689",
+                "price": 75
+            },
+            {
+                "name": "It'll_Freeze_That_Way",
+                "code": "876690",
+                "price": 75
+            },
+            {
+                "name": "Nyah_nyah",
+                "code": "876691",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877287",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878028",
+                "price": 200
+            },
+            {
+                "name": "Bad_for_Your_Health",
+                "code": "878403",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878888",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "878911",
+                "price": 200
+            },
+            {
+                "name": "Mug_Shot",
+                "code": "879957",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880709",
+                "price": 200
+            }
+        ],
+        "Mei": [
+            {
+                "name": "Hands_on_Hips",
+                "code": "876742",
+                "price": 75
+            },
+            {
+                "name": "Casual",
+                "code": "876796",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "876798",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877289",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877851",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878027",
+                "price": 200
+            },
+            {
+                "name": "Lucky!",
+                "code": "878397",
+                "price": 200
+            },
+            {
+                "name": "Peace",
+                "code": "881463",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "881868",
+                "price": 200
+            }
+        ],
+        "Bastion": [
+            {
+                "name": "Pop_Up",
+                "code": "876760",
+                "price": 75
+            },
+            {
+                "name": "Birdwatching",
+                "code": "876761",
+                "price": 75
+            },
+            {
+                "name": "Tank",
+                "code": "876762",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877288",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878011",
+                "price": 200
+            },
+            {
+                "name": "Firework",
+                "code": "878504",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878889",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878944",
+                "price": 200
+            }
+        ],
+        "Widowmaker": [
+            {
+                "name": "Over_the_Shoulder",
+                "code": "876813",
+                "price": 75
+            },
+            {
+                "name": "Gaze",
+                "code": "876814",
+                "price": 75
+            },
+            {
+                "name": "Activating_Visor",
+                "code": "876828",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877295",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877870",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878034",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878969",
+                "price": 200
+            },
+            {
+                "name": "Fans",
+                "code": "879714",
+                "price": 200
+            }
+        ],
+        "D.Va": [
+            {
+                "name": "Peace",
+                "code": "876818",
+                "price": 75
+            },
+            {
+                "name": "Sitting",
+                "code": "876820",
+                "price": 75
+            },
+            {
+                "name": "I_heart_you",
+                "code": "876829",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877265",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878010",
+                "price": 200
+            },
+            {
+                "name": "Festive",
+                "code": "878274",
+                "price": 200
+            },
+            {
+                "name": "Lucky_Pouch",
+                "code": "878426",
+                "price": 200
+            },
+            {
+                "name": "At_Ease",
+                "code": "879521",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin_Selfie",
+                "code": "880560",
+                "price": 200
+            },
+            {
+                "name": "Unsinkable",
+                "code": "1078263",
+                "price": 300
+            }
+        ],
+        "Reinhardt": [
+            {
+                "name": "Flex",
+                "code": "876980",
+                "price": 75
+            },
+            {
+                "name": "Confident",
+                "code": "876999",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877290",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878009",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878214",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878236",
+                "price": 200
+            },
+            {
+                "name": "Kneel",
+                "code": "879819",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "881700",
+                "price": 200
+            }
+        ],
+        "Zarya": [
+            {
+                "name": "Flexing",
+                "code": "876984",
+                "price": 75
+            },
+            {
+                "name": "Casual",
+                "code": "877023",
+                "price": 75
+            },
+            {
+                "name": "Check_out_this_gun",
+                "code": "877025",
+                "price": 75
+            },
+            {
+                "name": "Beatdown",
+                "code": "877518",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878043",
+                "price": 200
+            },
+            {
+                "name": "This_is_strength",
+                "code": "878624",
+                "price": 200
+            },
+            {
+                "name": "Medals",
+                "code": "878871",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878955",
+                "price": 200
+            },
+            {
+                "name": "Big_One",
+                "code": "879587",
+                "price": 200
+            }
+        ],
+        "Reaper": [
+            {
+                "name": "Enigmatic",
+                "code": "877059",
+                "price": 75
+            },
+            {
+                "name": "Menacing",
+                "code": "877062",
+                "price": 75
+            },
+            {
+                "name": "Casual",
+                "code": "877063",
+                "price": 75
+            },
+            {
+                "name": "Cackle",
+                "code": "877176",
+                "price": 200
+            },
+            {
+                "name": "Heroic",
+                "code": "877291",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877843",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878020",
+                "price": 200
+            },
+            {
+                "name": "Stockpile",
+                "code": "880651",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880689",
+                "price": 200
+            },
+            {
+                "name": "Ready_for_Action",
+                "code": "880691",
+                "price": 200
+            }
+        ],
+        "Roadhog": [
+            {
+                "name": "Tuckered_out",
+                "code": "877076",
+                "price": 75
+            },
+            {
+                "name": "Thumbs_up",
+                "code": "877077",
+                "price": 75
+            },
+            {
+                "name": "Pointing_to_the_sky",
+                "code": "877104",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877260",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877854",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878014",
+                "price": 200
+            },
+            {
+                "name": "What's_mine_is_mine",
+                "code": "878402",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878967",
+                "price": 200
+            },
+            {
+                "name": "Mug_Shot",
+                "code": "879959",
+                "price": 200
+            }
+        ],
+        "Sigma": [
+            {
+                "name": "Postulating",
+                "code": "877105",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "877687",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "877861",
+                "price": 200
+            },
+            {
+                "name": "Poised",
+                "code": "881568",
+                "price": 75
+            },
+            {
+                "name": "Observations",
+                "code": "881612",
+                "price": 75
+            },
+            {
+                "name": "Relaxation",
+                "code": "881613",
+                "price": 75
+            },
+            {
+                "name": "Pumpkin",
+                "code": "881711",
+                "price": 200
+            }
+        ],
+        "Genji": [
+            {
+                "name": "Shuriken",
+                "code": "877117",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "877144",
+                "price": 75
+            },
+            {
+                "name": "Sword_stance",
+                "code": "877168",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877307",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878092",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878234",
+                "price": 200
+            },
+            {
+                "name": "Meditate",
+                "code": "878599",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878968",
+                "price": 200
+            },
+            {
+                "name": "Over_the_Shoulder",
+                "code": "881372",
+                "price": 200
+            },
+            {
+                "name": "Screentime",
+                "code": "1052951",
+                "price": 300
+            },
+            {
+                "name": "Pounce",
+                "code": "1078307",
+                "price": 300
+            }
+        ],
+        "Soldier__76": [
+            {
+                "name": "Locked_and_Loaded",
+                "code": "877151",
+                "price": 75
+            },
+            {
+                "name": "Soldier",
+                "code": "877171",
+                "price": 75
+            },
+            {
+                "name": "Fist_Pump",
+                "code": "877172",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877294",
+                "price": 75
+            },
+            {
+                "name": "Golf_Swing",
+                "code": "877871",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878080",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878242",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "878275",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878907",
+                "price": 200
+            },
+            {
+                "name": "Hongbao",
+                "code": "881890",
+                "price": 200
+            }
+        ],
+        "Ashe": [
+            {
+                "name": "The_Spoils",
+                "code": "877179",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878238",
+                "price": 200
+            },
+            {
+                "name": "Heroic",
+                "code": "880541",
+                "price": 75
+            },
+            {
+                "name": "Relaxing",
+                "code": "880580",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "880582",
+                "price": 75
+            },
+            {
+                "name": "Over_the_Shoulder",
+                "code": "880596",
+                "price": 75
+            },
+            {
+                "name": "Lighting_the_fuse",
+                "code": "880633",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "881523",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "881827",
+                "price": 200
+            }
+        ],
+        "Tracer": [
+            {
+                "name": "Salute",
+                "code": "877204",
+                "price": 75
+            },
+            {
+                "name": "Over_the_Shoulder",
+                "code": "877227",
+                "price": 75
+            },
+            {
+                "name": "Sitting",
+                "code": "877229",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877284",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878051",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878892",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "878913",
+                "price": 200
+            },
+            {
+                "name": "Fireworks",
+                "code": "879665",
+                "price": 200
+            },
+            {
+                "name": "Wink",
+                "code": "880299",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880677",
+                "price": 200
+            }
+        ],
+        "Winston": [
+            {
+                "name": "The_Thinker",
+                "code": "877220",
+                "price": 75
+            },
+            {
+                "name": "Glasses",
+                "code": "877223",
+                "price": 75
+            },
+            {
+                "name": "Beast",
+                "code": "877240",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "877293",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "877842",
+                "price": 200
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878005",
+                "price": 200
+            },
+            {
+                "name": "Peanut_Butter",
+                "code": "878626",
+                "price": 200
+            },
+            {
+                "name": "Sparklers",
+                "code": "879222",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "881865",
+                "price": 200
+            }
+        ],
+        "Echo": [
+            {
+                "name": "Prim",
+                "code": "877317",
+                "price": 75
+            },
+            {
+                "name": "Medal",
+                "code": "878244",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878381",
+                "price": 200
+            },
+            {
+                "name": "Fan",
+                "code": "878390",
+                "price": 200
+            },
+            {
+                "name": "Empowered",
+                "code": "881744",
+                "price": 75
+            },
+            {
+                "name": "Stasis",
+                "code": "881745",
+                "price": 75
+            },
+            {
+                "name": "Pumpkin",
+                "code": "881808",
+                "price": 200
+            },
+            {
+                "name": "Swoop",
+                "code": "1168959",
+                "price": 300
+            }
+        ],
+        "Ana": [
+            {
+                "name": "Heroic",
+                "code": "877601",
+                "price": 75
+            },
+            {
+                "name": "Protector",
+                "code": "877654",
+                "price": 75
+            },
+            {
+                "name": "Mission_Complete",
+                "code": "877657",
+                "price": 75
+            },
+            {
+                "name": "Seated",
+                "code": "877667",
+                "price": 75
+            },
+            {
+                "name": "R.I.P.",
+                "code": "878033",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "878209",
+                "price": 200
+            },
+            {
+                "name": "Folded_hands",
+                "code": "878396",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "881522",
+                "price": 200
+            }
+        ],
+        "Orisa": [
+            {
+                "name": "Medal",
+                "code": "877658",
+                "price": 200
+            },
+            {
+                "name": "Sparklers",
+                "code": "878392",
+                "price": 200
+            },
+            {
+                "name": "Halt!",
+                "code": "878573",
+                "price": 75
+            },
+            {
+                "name": "Flex",
+                "code": "878592",
+                "price": 75
+            },
+            {
+                "name": "Confident",
+                "code": "878607",
+                "price": 75
+            },
+            {
+                "name": "Pumpkin_Head",
+                "code": "878984",
+                "price": 200
+            },
+            {
+                "name": "Puppy",
+                "code": "879888",
+                "price": 200
+            },
+            {
+                "name": "Beacon",
+                "code": "881374",
+                "price": 200
+            },
+            {
+                "name": "Planet",
+                "code": "1052959",
+                "price": 300
+            }
+        ],
+        "Sombra": [
+            {
+                "name": "Rising",
+                "code": "877786",
+                "price": 75
+            },
+            {
+                "name": "Hacked",
+                "code": "877787",
+                "price": 75
+            },
+            {
+                "name": "Kneeling",
+                "code": "877807",
+                "price": 75
+            },
+            {
+                "name": "Sparklers",
+                "code": "878400",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "878890",
+                "price": 200
+            },
+            {
+                "name": "Pumpkinette",
+                "code": "878990",
+                "price": 200
+            },
+            {
+                "name": "Data_Cube",
+                "code": "880720",
+                "price": 200
+            }
+        ],
+        "Moira": [
+            {
+                "name": "The_Lion_Roars",
+                "code": "877789",
+                "price": 200
+            },
+            {
+                "name": "Orbs",
+                "code": "879082",
+                "price": 75
+            },
+            {
+                "name": "Steepling",
+                "code": "879083",
+                "price": 75
+            },
+            {
+                "name": "Heroic",
+                "code": "879092",
+                "price": 75
+            },
+            {
+                "name": "Prim",
+                "code": "879124",
+                "price": 75
+            },
+            {
+                "name": "Erlenmeyer",
+                "code": "879974",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "880404",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "880557",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880622",
+                "price": 200
+            }
+        ],
+        "Doomfist": [
+            {
+                "name": "Polish",
+                "code": "877855",
+                "price": 200
+            },
+            {
+                "name": "Heroic",
+                "code": "878849",
+                "price": 75
+            },
+            {
+                "name": "Superior",
+                "code": "878904",
+                "price": 75
+            },
+            {
+                "name": "Intense",
+                "code": "878909",
+                "price": 75
+            },
+            {
+                "name": "Seismic_Slam",
+                "code": "878910",
+                "price": 75
+            },
+            {
+                "name": "Charging",
+                "code": "880273",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "880410",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "880525",
+                "price": 200
+            },
+            {
+                "name": "Fireworks",
+                "code": "880642",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880648",
+                "price": 200
+            }
+        ],
+        "All_Heroes": [
+            {
+                "name": "Shrug",
+                "code": "878792",
+                "price": 75
+            },
+            {
+                "name": "RANDOM",
+                "code": "881421",
+                "price": 75
+            },
+            {
+                "name": "RANDOM",
+                "code": "881433",
+                "price": 75
+            },
+            {
+                "name": "RANDOM",
+                "code": "881440",
+                "price": 75
+            },
+            {
+                "name": "Stare_Down",
+                "code": "1406431",
+                "price": 300
+            },
+            {
+                "name": "Basking",
+                "code": "1406442",
+                "price": 300
+            }
+        ],
+        "Brigitte": [
+            {
+                "name": "Heroic",
+                "code": "879645",
+                "price": 75
+            },
+            {
+                "name": "Confident",
+                "code": "879646",
+                "price": 75
+            },
+            {
+                "name": "Rally",
+                "code": "879667",
+                "price": 75
+            },
+            {
+                "name": "Relaxed",
+                "code": "879672",
+                "price": 75
+            },
+            {
+                "name": "Kneel",
+                "code": "879975",
+                "price": 200
+            },
+            {
+                "name": "Pumpkin",
+                "code": "880555",
+                "price": 200
+            },
+            {
+                "name": "Toast",
+                "code": "880583",
+                "price": 200
+            },
+            {
+                "name": "Medal",
+                "code": "881524",
+                "price": 200
+            },
+            {
+                "name": "Sparkling_Company",
+                "code": "881898",
+                "price": 200
+            },
+            {
+                "name": "Cat-in-the-box",
+                "code": "1885618",
+                "price": 300
+            }
+        ],
+        "Kiriko": [
+            {
+                "name": "Confident",
+                "code": "911606",
+                "price": 300
+            },
+            {
+                "name": "Meditate",
+                "code": "911611",
+                "price": 300
+            },
+            {
+                "name": "Companion",
+                "code": "911627",
+                "price": 300
+            },
+            {
+                "name": "RANDOM",
+                "code": "911628",
+                "price": 300
+            }
+        ],
+        "Junker_Queen": [
+            {
+                "name": "Relaxing",
+                "code": "911616",
+                "price": 300
+            },
+            {
+                "name": "Arms_Open",
+                "code": "911756",
+                "price": 300
+            },
+            {
+                "name": "Heroic",
+                "code": "911757",
+                "price": 300
+            },
+            {
+                "name": "RANDOM",
+                "code": "911759",
+                "price": 300
+            },
+            {
+                "name": "Sharpen",
+                "code": "911760",
+                "price": 300
+            }
+        ],
+        "Sojourn": [
+            {
+                "name": "Primed",
+                "code": "911794",
+                "price": 300
+            },
+            {
+                "name": "Flex",
+                "code": "911809",
+                "price": 300
+            },
+            {
+                "name": "RANDOM",
+                "code": "911810",
+                "price": 300
+            },
+            {
+                "name": "Effortless",
+                "code": "969182",
+                "price": 300
+            }
+        ],
+        "Ramattra": [
+            {
+                "name": "Nemesis_Form",
+                "code": "1052616",
+                "price": 300
+            },
+            {
+                "name": "Triumphant",
+                "code": "1052618",
+                "price": 300
+            },
+            {
+                "name": "Wayward",
+                "code": "1052619",
+                "price": 300
+            },
+            {
+                "name": "Necromancer",
+                "code": "1078304",
+                "price": 300
+            }
+        ],
+        "Lifeweaver": [
+            {
+                "name": "Gazing",
+                "code": "1172371",
+                "price": 300
+            },
+            {
+                "name": "Rose",
+                "code": "1172375",
+                "price": 300
+            },
+            {
+                "name": "Thorns",
+                "code": "1172376",
+                "price": 300
+            }
+        ]
+    }
+}
