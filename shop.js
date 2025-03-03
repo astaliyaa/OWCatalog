@@ -8,7 +8,7 @@ const headers = {
   "accept": "application/json, text/plain, */*",
   "accept-encoding": "gzip, deflate, br, zstd",
   "accept-language": "en-us",
-  "cookie": "access_token=NTQ2MTY3NzMtM2NjZi00ZDVmLThmN2YtZDIyZTBiNWNjNjRm",
+  "cookie": "access_token=MWNhNmUyMGItYzUzNC00MzJlLWI0NzAtNDQ5MTNhODYyY2Nk",
   "priority": "u=1, i",
   "referer": "https://eu.shop.battle.net/en-us/family/overwatch",
   "sec-ch-ua": `"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"`,
