@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battle.net OAuth Login</title>
+</head>
+
+<body>
+    <h2>Battle.net OAuth Login</h2>
+    <button id="loginBtn">Login with Battle.net</button>
+    <div id="userData"></div>
+
+    <script>
+        const clientId = "aa769474b26943d5838df82c4c5c60f9";
+        const redirectUri = "http://localhost:3000/callback";  // Must match the one set in Blizzard Developer portal
+        const region = "eu";  // Change to 'eu', 'kr', 'tw' if needed
+
+        document.getElementById("loginBtn").addEventListener("click", () => {
+            const state = Math.random().toString(36).substring(2); // Generate random state
+            localStorage.setItem("oauth_state", state); // Store state for verification
+
+            const authUrl = `https://${region}.battle.net/oauth/authorize?client_id=${clientId}&redirect_uri=${encodeURIComponent(redirectUri)}&response_type=code&scope=openid&state=${state}`;
+            window.location.href = authUrl;
+        });
+
+
+        // Handle URL parameters after redirect
+        const urlParams = new URLSearchParams(window.location.search);
+        const authCode = urlParams.get("code");
+
+        if (authCode) {
+            fetch(`/callback?code=${authCode}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.access_token) {
+                        fetchUserData(data.access_token);
+                    } else {
+                        document.getElementById("userData").innerText = "Failed to retrieve access token.";
+                    }
+                })
+                .catch(err => console.error("Error fetching token:", err));
+        }
+
+        function fetchUserData(accessToken) {
+            fetch("https://us.battle.net/oauth/userinfo", {
+                headers: { "Authorization": `Bearer ${accessToken}` }
+            })
+                .then(response => response.json())
+                .then(user => {
+                    document.getElementById("userData").innerText = JSON.stringify(user, null, 2);
+                })
+                .catch(err => console.error("Error fetching user data:", err));
+        }
+    </script>
+</body>
+
+</html>
