@@ -1,0 +1,100 @@
+{
+  "expiresAtMs": 1741719691000,
+  "items": [
+    {
+      "id": "overwatch-mythical-creatures-mega-bundle",
+      "title": "Mythical Creatures Mega Bundle",
+      "description": "Legendary | Bundle (10 items)",
+      "image": "//catalog.blzstatic.com//f98/3b90a7bf33131bbe196a080e606387ed-S15_MythicalCreaturesMegaBundle_web.png",
+      "price": 3800,
+      "currency": "XWC",
+      "pid": "1901822",
+      "productIds": [
+        1901930,
+        1901920,
+        1901866,
+        1901858,
+        1901849,
+        1901861,
+        1901889,
+        1901924,
+        1901892,
+        1891570
+      ]
+    },
+    {
+      "id": "overwatch-heavenly-kings-mega-bundle",
+      "title": "Heavenly Kings Mega Bundle",
+      "description": "Legendary | Bundle (15 items)",
+      "image": "//catalog.blzstatic.com//7c/251ea39ea37d846da0d71486e92e9043-S15_HeavenlyKingsMegaBundle_web1.png",
+      "price": 5600,
+      "currency": "XWC",
+      "pid": "1901818",
+      "productIds": [
+        1901927,
+        1901894,
+        1891591,
+        1902377,
+        1902376,
+        1901862,
+        1901860,
+        1901925,
+        1901898,
+        1891569,
+        1901900,
+        1901923,
+        1901888,
+        1891571,
+        1909292
+      ]
+    },
+    {
+      "id": "overwatch-support-bundle",
+      "title": "Support Essentials Bundle",
+      "description": "Essential Bundles",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltcbaacad72132f7fd/67a51a2ee4c8de087b3cd8f4/Web_1920x1080_S14_RMT_Support_Role_ux.png",
+      "price": 4.99,
+      "currency": "EUR",
+      "pid": "1885102",
+      "productIds": [
+        1885102
+      ]
+    },
+    {
+      "id": "overwatch-dps-bundle",
+      "title": "DPS Essentials Bundle",
+      "description": "Essential Bundles",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt0b657cfea80a3cab/67a51a9d06b898456dd347bc/Web_1920x1080_S14_RMT_DPS_Role_ux.png",
+      "price": 4.99,
+      "currency": "EUR",
+      "pid": "1885121",
+      "productIds": [
+        1885121
+      ]
+    },
+    {
+      "id": "overwatch-tank-bundle",
+      "title": "Tank Essentials Bundle",
+      "description": "Essential Bundles",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltf6fc9a7788bf26e5/67a51b2f711328647b17ff49/Web_1920x1080_S14_RMT_Tank_Role_ux.png",
+      "price": 4.99,
+      "currency": "EUR",
+      "pid": "1885122",
+      "productIds": [
+        1885122
+      ]
+    },
+    {
+      "id": "overwatch-ultimate-bundle",
+      "title": "Overwatch® 2 – Ultimate Battle Pass Bundle: Season 15",
+      "description": "Team-Based Action Game",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd070fbd8fa8318cb/67ad475689e4f30ca3bbeeee/OW2_S15_UBP_Bundle_Homepage_BrowsingCard_1920x1080.png",
+      "price": 39.99,
+      "currency": "EUR",
+      "pid": "1890304",
+      "productIds": [
+        1890304
+      ]
+    }
+  ]
+}

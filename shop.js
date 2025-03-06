@@ -34,20 +34,51 @@ async function getShop() {
 
     const response = await axios.get(url, { headers });
     console.log("Request successful:");
-    const shopFolder = path.join(__dirname, 'Shop');
-    const filePath = path.join(shopFolder, `${response.data.id}.json`);
 
+    const shopFolder = path.join(__dirname, 'Shop');
+    const bundlesFilePath = path.join(shopFolder, 'Bundles.json');
+
+    // Ensure the Shop folder exists
     if (!fs.existsSync(shopFolder)) {
       fs.mkdirSync(shopFolder);
     }
 
-    fs.writeFile(filePath, JSON.stringify(response.data, null, 2), (err) => {
-      if (err) {
-        console.error("Error writing file:", err);
-      } else {
-        console.log("Response saved to", filePath);
-      }
-    });
+    // Read the existing Bundles.json file
+    let bundlesData = { items: [] };
+    if (fs.existsSync(bundlesFilePath)) {
+      const bundlesFileContent = fs.readFileSync(bundlesFilePath, 'utf8');
+      bundlesData = JSON.parse(bundlesFileContent);
+    }
+
+    // Extract and format the response data
+    const featuredCollection = response.data.mtxCollections.find(collection => collection.title === 'Featured');
+    if (featuredCollection) {
+      const formattedData = featuredCollection.items.map(item => ({
+        id: item.slug,
+        title: item.title,
+        description: item.description,
+        image: item.image.url,
+        price: item.price.raw,
+        currency: item.price.currency,
+        pid: Object.keys(item.ecommerceAnalytics.products)[0],
+        productIds: item.productIds
+      }));
+
+      // Add only new items to the items array
+      formattedData.forEach(newItem => {
+        const exists = bundlesData.items.some(existingItem => existingItem.id === newItem.id && existingItem.pid === newItem.pid);
+        if (!exists) {
+          bundlesData.items.push(newItem);
+        }
+      });
+
+      // Write the updated data back to Bundles.json
+      fs.writeFileSync(bundlesFilePath, JSON.stringify(bundlesData, null, 2), 'utf8');
+      console.log("Response saved to", bundlesFilePath);
+    } else {
+      console.log("No 'Featured' collection found.");
+    }
+
   } catch (error) {
     console.error("Request failed:", error.response ? error.response.status : error.message);
   }

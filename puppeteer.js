@@ -34,9 +34,7 @@ async function getAccessToken() {
         await new Promise(resolve => setTimeout(resolve, 15000)); // Wait for 6 seconds to allow the site to load
 
         const cookies = await page.cookies();
-        console.log("All cookies: " + JSON.stringify(cookies)); // Print all cookies to debug
         const accessTokenCookie = cookies.find(cookie => cookie.name === 'access_token');
-        console.log("access token cookie: " + accessTokenCookie.value); // Use JSON.stringify to print the object
         
         return accessTokenCookie.value;
         await browser.close();
