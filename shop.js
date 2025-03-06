@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const { exec } = require('child_process');
-const { getAccessToken, launchChrome } = require('./puppeteer');
+const { getAccessToken, launchChrome } = require('./utils/puppeteer');
 
 const url = "https://eu.shop.battle.net/api/itemshop/pages/blt01ee8af4f4da5e5f?userId=1115090890&locale=en-US";
 
@@ -38,19 +38,16 @@ async function getShop() {
     const shopFolder = path.join(__dirname, 'Shop');
     const bundlesFilePath = path.join(shopFolder, 'Bundles.json');
 
-    // Ensure the Shop folder exists
     if (!fs.existsSync(shopFolder)) {
       fs.mkdirSync(shopFolder);
     }
 
-    // Read the existing Bundles.json file
     let bundlesData = { items: [] };
     if (fs.existsSync(bundlesFilePath)) {
       const bundlesFileContent = fs.readFileSync(bundlesFilePath, 'utf8');
       bundlesData = JSON.parse(bundlesFileContent);
     }
 
-    // Extract and format the response data
     const featuredCollection = response.data.mtxCollections.find(collection => collection.title === 'Featured');
     if (featuredCollection) {
       const formattedData = featuredCollection.items.map(item => ({
@@ -64,7 +61,6 @@ async function getShop() {
         productIds: item.productIds
       }));
 
-      // Add only new items to the items array
       formattedData.forEach(newItem => {
         const exists = bundlesData.items.some(existingItem => existingItem.id === newItem.id && existingItem.pid === newItem.pid);
         if (!exists) {
@@ -72,7 +68,6 @@ async function getShop() {
         }
       });
 
-      // Write the updated data back to Bundles.json
       fs.writeFileSync(bundlesFilePath, JSON.stringify(bundlesData, null, 2), 'utf8');
       console.log("Response saved to", bundlesFilePath);
     } else {
