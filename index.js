@@ -34,7 +34,7 @@ app.get('/heroes/:hero', (req, res) => {
         return {
             name: skin.name,
             code: skin.code,
-            image: `https://cdn.owcatalog.de/cdn/cosmetics/${heroKey}/${skin.name}.jpg`
+            image: `https://cdn.owcatalog.de/cdn/cosmetics/Skins/${heroKey}/${skin.name}.jpg`
         };
     });
 
