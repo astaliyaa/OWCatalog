@@ -12,7 +12,7 @@ try {
             skinsData.Items[hero] = skinsData.Items[hero].filter(skin => {
                 const imagePath = path.join(cosmeticsDir, hero, `${skin.name}.jpg`);
                 if (fs.existsSync(imagePath)) {
-                    skin.image = `http://localhost:3000/Cosmetics/Skins/${hero}/${skin.name}.jpg`;
+                    skin.image = `http://v21159.1blu.de:3000/Cosmetics/Skins/${hero}/${skin.name}.jpg`;
                     return true;
                 } else {
                     console.warn(`Image not found for ${hero} - ${skin.name}`);
