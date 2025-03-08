@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'cosmetics.html'));
@@ -9,6 +10,11 @@ app.get('/', (req, res) => {
 
 app.use('/Cosmetics', express.static('Cosmetics'));
 app.use('/assets', express.static('public/assets'));
+
+const options = {
+    cert: fs.readFileSync('./certs/cert.pem'),
+    key: fs.readFileSync('./certs/privkey.pem')
+};
 
 app.get('/heroes/:hero', (req, res) => {
     const hero = req.params.hero.toLowerCase();
@@ -28,7 +34,7 @@ app.get('/heroes/:hero', (req, res) => {
         return {
             name: skin.name,
             code: skin.code,
-            image: `http://localhost:3000/Cosmetics/Skins/${heroKey}/${skin.name}.jpg`
+            image: `https://cdn.owcatalog.de/cdn/cosmetics/${heroKey}/${skin.name}.jpg`
         };
     });
 
@@ -39,22 +45,22 @@ app.get('/heroes/:hero', (req, res) => {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>${heroKey} Skins</title>
-      <link rel="stylesheet" href="http://localhost:3000/assets/css/style.css">
+      <link rel="stylesheet" href="https://cdn.owcatalog.de/cdn/assets/css/style.css">
   </head>
   <body>
       <div class="navbar">
           <div class="logo">
-              <img src="http://localhost:3000/assets/site/owcatalog-logo.png">
+              <img src="https://cdn.owcatalog.de/cdn/assets/ui/owcatalog-logo.png">
           </div>
           <div class="nav-links">
               <a href="#">
-                  <img src="http://localhost:3000/assets/site/home.png"> <span>Home</span>
+                  <img src="https://cdn.owcatalog.de/cdn/assets/ui/home.png"> <span>Home</span>
               </a>
               <a class="nav-links-selected" href="#">
-                  <img src="http://localhost:3000/assets/site/cosmetics.png"> <span>Cosmetics</span>
+                  <img src="https://cdn.owcatalog.de/cdn/assets/ui/cosmetics.png"> <span>Cosmetics</span>
               </a>
               <a href="#">
-                  <img src="http://localhost:3000/assets/site/bundles.png"> <span>Bundles</span>
+                  <img src="https://cdn.owcatalog.de/cdn/assets/ui/bundles.png"> <span>Bundles</span>
               </a>
           </div>
       </div>
@@ -76,6 +82,6 @@ app.get('/heroes/:hero', (req, res) => {
     res.send(html);
 });
 
-app.listen(3000, () => {
-    console.log('Server is running on http://localhost:3000');
-});
+https.createServer(options, app).listen(3000, '0.0.0.0', () => {
+    console.log('Server is running on https://owcatalog.de or https://localhost:3000');
+})
