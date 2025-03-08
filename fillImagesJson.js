@@ -11,7 +11,7 @@ function filterSkinsWithImages(skinsData) {
         skinsData.Items[hero] = skinsData.Items[hero].filter(skin => {
             const imagePath = path.join(cosmeticsDir, hero, `${skin.name}.jpg`);
             if (fs.existsSync(imagePath)) {
-                skin.image = `http://localhost:3000/Cosmetics/Name_Cards/${hero}/${skin.name}.jpg`;
+                skin.image = `http://v21159.1blu.de:3000/Cosmetics/Name_Cards/${hero}/${skin.name}.jpg`;
                 return true;
             }
             return false;
