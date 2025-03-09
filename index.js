@@ -61,7 +61,8 @@ app.get('/heroes/:hero', async (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>${heroKey} Skins</title>
+            <title>OWCatalog | ${heroKey} Skins</title>
+            <link rel="icon" type="image/x-icon" href="https://cdn.owcatalog.de/cdn/assets/ui/favicon.ico">
             <link rel="stylesheet" href="https://cdn.owcatalog.de/cdn/assets/css/style.css">
         </head>
         <body>
