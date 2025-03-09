@@ -1,0 +1,5420 @@
+{
+  "Items": {
+    "Symmetra": [
+      {
+        "code": "868939",
+        "name": "Symmetra - Florida Mayhem"
+      },
+      {
+        "code": "879179",
+        "name": "Symmetra - Philadelphia Fusion"
+      },
+      {
+        "code": "879268",
+        "name": "Symmetra - Boston Uprising"
+      },
+      {
+        "code": "879311",
+        "name": "Symmetra - Dallas Fuel"
+      },
+      {
+        "code": "879332",
+        "name": "Symmetra - London Spitfire"
+      },
+      {
+        "code": "879343",
+        "name": "Symmetra - Los Angeles Gladiators"
+      },
+      {
+        "code": "879402",
+        "name": "Symmetra - Houston Outlaws"
+      },
+      {
+        "code": "879416",
+        "name": "Symmetra - New York Excelsior"
+      },
+      {
+        "code": "879488",
+        "name": "Symmetra - Seoul Dynasty"
+      },
+      {
+        "code": "879494",
+        "name": "Symmetra - Shanghai Dragons"
+      },
+      {
+        "code": "880889",
+        "name": "Symmetra - Guangzhou Charge"
+      },
+      {
+        "code": "880949",
+        "name": "Symmetra - Hangzhou Spark"
+      },
+      {
+        "code": "880981",
+        "name": "Symmetra - Paris Eternal"
+      },
+      {
+        "code": "881075",
+        "name": "Symmetra - Toronto Defiant"
+      },
+      {
+        "code": "881111",
+        "name": "Symmetra - Vancouver Titans"
+      },
+      {
+        "code": "881169",
+        "name": "Symmetra - Washington Justice"
+      },
+      {
+        "code": "881230",
+        "name": "Symmetra - Atlanta Reign"
+      },
+      {
+        "code": "881784",
+        "name": "Symmetra - San Francisco Shock"
+      },
+      {
+        "code": "1121356",
+        "name": "Symmetra - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121432",
+        "name": "Symmetra - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121492",
+        "name": "Symmetra - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121493",
+        "name": "Symmetra - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121496",
+        "name": "Symmetra - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121497",
+        "name": "Symmetra - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121756",
+        "name": "Symmetra - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121758",
+        "name": "Symmetra - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121759",
+        "name": "Symmetra - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121762",
+        "name": "Symmetra - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122011",
+        "name": "Symmetra - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122014",
+        "name": "Symmetra - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122015",
+        "name": "Symmetra - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122016",
+        "name": "Symmetra - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122269",
+        "name": "Symmetra - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122271",
+        "name": "Symmetra - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122272",
+        "name": "Symmetra - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122452",
+        "name": "Symmetra - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136241",
+        "name": "Symmetra - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Tracer": [
+      {
+        "code": "873750",
+        "name": "Tracer - Florida Mayhem"
+      },
+      {
+        "code": "879205",
+        "name": "Tracer - Philadelphia Fusion"
+      },
+      {
+        "code": "879254",
+        "name": "Tracer - Boston Uprising"
+      },
+      {
+        "code": "879296",
+        "name": "Tracer - Dallas Fuel"
+      },
+      {
+        "code": "879316",
+        "name": "Tracer - London Spitfire"
+      },
+      {
+        "code": "879326",
+        "name": "Tracer - Los Angeles Gladiators"
+      },
+      {
+        "code": "879397",
+        "name": "Tracer - Houston Outlaws"
+      },
+      {
+        "code": "879424",
+        "name": "Tracer - Seoul Dynasty"
+      },
+      {
+        "code": "879490",
+        "name": "Tracer - Shanghai Dragons"
+      },
+      {
+        "code": "879936",
+        "name": "Tracer - San Francisco Shock"
+      },
+      {
+        "code": "880896",
+        "name": "Tracer - Guangzhou Charge"
+      },
+      {
+        "code": "880954",
+        "name": "Tracer - Hangzhou Spark"
+      },
+      {
+        "code": "881015",
+        "name": "Tracer - Paris Eternal"
+      },
+      {
+        "code": "881061",
+        "name": "Tracer - Toronto Defiant"
+      },
+      {
+        "code": "881091",
+        "name": "Tracer - Vancouver Titans"
+      },
+      {
+        "code": "881177",
+        "name": "Tracer - Washington Justice"
+      },
+      {
+        "code": "881239",
+        "name": "Tracer - Atlanta Reign"
+      },
+      {
+        "code": "881812",
+        "name": "Tracer - Los Angeles Valiant"
+      },
+      {
+        "code": "1121352",
+        "name": "Tracer - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121429",
+        "name": "Tracer - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121483",
+        "name": "Tracer - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121486",
+        "name": "Tracer - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121488",
+        "name": "Tracer - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121490",
+        "name": "Tracer - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121692",
+        "name": "Tracer - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121751",
+        "name": "Tracer - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121752",
+        "name": "Tracer - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121754",
+        "name": "Tracer - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122003",
+        "name": "Tracer - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122005",
+        "name": "Tracer - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122007",
+        "name": "Tracer - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122010",
+        "name": "Tracer - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122194",
+        "name": "Tracer - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122263",
+        "name": "Tracer - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122266",
+        "name": "Tracer - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122518",
+        "name": "Tracer - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136260",
+        "name": "Tracer - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Widowmaker": [
+      {
+        "code": "874194",
+        "name": "Widowmaker - Florida Mayhem"
+      },
+      {
+        "code": "878979",
+        "name": "Widowmaker - Nova"
+      },
+      {
+        "code": "879209",
+        "name": "Widowmaker - Philadelphia Fusion"
+      },
+      {
+        "code": "879258",
+        "name": "Widowmaker - Boston Uprising"
+      },
+      {
+        "code": "879300",
+        "name": "Widowmaker - Dallas Fuel"
+      },
+      {
+        "code": "879331",
+        "name": "Widowmaker - London Spitfire"
+      },
+      {
+        "code": "879341",
+        "name": "Widowmaker - Los Angeles Gladiators"
+      },
+      {
+        "code": "879386",
+        "name": "Widowmaker - Houston Outlaws"
+      },
+      {
+        "code": "879430",
+        "name": "Widowmaker - New York Excelsior"
+      },
+      {
+        "code": "879487",
+        "name": "Widowmaker - Seoul Dynasty"
+      },
+      {
+        "code": "879493",
+        "name": "Widowmaker - Shanghai Dragons"
+      },
+      {
+        "code": "880891",
+        "name": "Widowmaker - Guangzhou Charge"
+      },
+      {
+        "code": "880951",
+        "name": "Widowmaker - Hangzhou Spark"
+      },
+      {
+        "code": "880982",
+        "name": "Widowmaker - Paris Eternal"
+      },
+      {
+        "code": "881076",
+        "name": "Widowmaker - Toronto Defiant"
+      },
+      {
+        "code": "881113",
+        "name": "Widowmaker - Vancouver Titans"
+      },
+      {
+        "code": "881170",
+        "name": "Widowmaker - Washington Justice"
+      },
+      {
+        "code": "881232",
+        "name": "Widowmaker - Atlanta Reign"
+      },
+      {
+        "code": "881789",
+        "name": "Widowmaker - San Francisco Shock"
+      },
+      {
+        "code": "881813",
+        "name": "Widowmaker - Los Angeles Valiant"
+      },
+      {
+        "code": "1121368",
+        "name": "Widowmaker - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121431",
+        "name": "Widowmaker - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121476",
+        "name": "Widowmaker - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121477",
+        "name": "Widowmaker - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121481",
+        "name": "Widowmaker - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121484",
+        "name": "Widowmaker - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121743",
+        "name": "Widowmaker - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121745",
+        "name": "Widowmaker - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121747",
+        "name": "Widowmaker - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121749",
+        "name": "Widowmaker - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121995",
+        "name": "Widowmaker - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1121997",
+        "name": "Widowmaker - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1121999",
+        "name": "Widowmaker - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122001",
+        "name": "Widowmaker - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122255",
+        "name": "Widowmaker - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122257",
+        "name": "Widowmaker - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122258",
+        "name": "Widowmaker - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122512",
+        "name": "Widowmaker - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136243",
+        "name": "Widowmaker - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Reaper": [
+      {
+        "code": "876283",
+        "name": "Reaper - Desert"
+      },
+      {
+        "code": "879204",
+        "name": "Reaper - Philadelphia Fusion"
+      },
+      {
+        "code": "879253",
+        "name": "Reaper - Boston Uprising"
+      },
+      {
+        "code": "879308",
+        "name": "Reaper - Dallas Fuel"
+      },
+      {
+        "code": "879328",
+        "name": "Reaper - London Spitfire"
+      },
+      {
+        "code": "879337",
+        "name": "Reaper - Los Angeles Gladiators"
+      },
+      {
+        "code": "879384",
+        "name": "Reaper - Houston Outlaws"
+      },
+      {
+        "code": "879427",
+        "name": "Reaper - New York Excelsior"
+      },
+      {
+        "code": "879480",
+        "name": "Reaper - Seoul Dynasty"
+      },
+      {
+        "code": "879513",
+        "name": "Reaper - Shanghai Dragons"
+      },
+      {
+        "code": "879878",
+        "name": "Reaper - San Francisco Shock"
+      },
+      {
+        "code": "880234",
+        "name": "Reaper - Florida Mayhem"
+      },
+      {
+        "code": "880861",
+        "name": "Reaper - Guangzhou Charge"
+      },
+      {
+        "code": "880938",
+        "name": "Reaper - Hangzhou Spark"
+      },
+      {
+        "code": "881000",
+        "name": "Reaper - Paris Eternal"
+      },
+      {
+        "code": "881041",
+        "name": "Reaper - Toronto Defiant"
+      },
+      {
+        "code": "881064",
+        "name": "Reaper - Vancouver Titans"
+      },
+      {
+        "code": "881099",
+        "name": "Reaper - Washington Justice"
+      },
+      {
+        "code": "881213",
+        "name": "Reaper - Atlanta Reign"
+      },
+      {
+        "code": "881809",
+        "name": "Reaper - Los Angeles Valiant"
+      },
+      {
+        "code": "1121364",
+        "name": "Reaper - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121441",
+        "name": "Reaper - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121553",
+        "name": "Reaper - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121555",
+        "name": "Reaper - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121557",
+        "name": "Reaper - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121799",
+        "name": "Reaper - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121800",
+        "name": "Reaper - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121801",
+        "name": "Reaper - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121802",
+        "name": "Reaper - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121804",
+        "name": "Reaper - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121899",
+        "name": "Reaper - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122060",
+        "name": "Reaper - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122063",
+        "name": "Reaper - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122064",
+        "name": "Reaper - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122312",
+        "name": "Reaper - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122315",
+        "name": "Reaper - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122316",
+        "name": "Reaper - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122454",
+        "name": "Reaper - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136231",
+        "name": "Reaper - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Hanzo": [
+      {
+        "code": "876324",
+        "name": "Hanzo - Young Hanzo"
+      },
+      {
+        "code": "879175",
+        "name": "Hanzo - Philadelphia Fusion"
+      },
+      {
+        "code": "879502",
+        "name": "Hanzo - Boston Uprising"
+      },
+      {
+        "code": "879505",
+        "name": "Hanzo - Dallas Fuel"
+      },
+      {
+        "code": "879528",
+        "name": "Hanzo - London Spitfire"
+      },
+      {
+        "code": "879530",
+        "name": "Hanzo - Los Angeles Gladiators"
+      },
+      {
+        "code": "879539",
+        "name": "Hanzo - Houston Outlaws"
+      },
+      {
+        "code": "879563",
+        "name": "Hanzo - New York Excelsior"
+      },
+      {
+        "code": "879568",
+        "name": "Hanzo - Seoul Dynasty"
+      },
+      {
+        "code": "879570",
+        "name": "Hanzo - Shanghai Dragons"
+      },
+      {
+        "code": "879958",
+        "name": "Hanzo - Los Angeles Valiant"
+      },
+      {
+        "code": "880894",
+        "name": "Hanzo - Guangzhou Charge"
+      },
+      {
+        "code": "880968",
+        "name": "Hanzo - Hangzhou Spark"
+      },
+      {
+        "code": "880985",
+        "name": "Hanzo - Paris Eternal"
+      },
+      {
+        "code": "881059",
+        "name": "Hanzo - Toronto Defiant"
+      },
+      {
+        "code": "881120",
+        "name": "Hanzo - Vancouver Titans"
+      },
+      {
+        "code": "881175",
+        "name": "Hanzo - Washington Justice"
+      },
+      {
+        "code": "881237",
+        "name": "Hanzo - Atlanta Reign"
+      },
+      {
+        "code": "881771",
+        "name": "Hanzo - San Francisco Shock"
+      },
+      {
+        "code": "881887",
+        "name": "Hanzo - Florida Mayhem"
+      },
+      {
+        "code": "1121418",
+        "name": "Hanzo - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121682",
+        "name": "Hanzo - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121683",
+        "name": "Hanzo - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121686",
+        "name": "Hanzo - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121688",
+        "name": "Hanzo - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121892",
+        "name": "Hanzo - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121952",
+        "name": "Hanzo - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121955",
+        "name": "Hanzo - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121956",
+        "name": "Hanzo - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121957",
+        "name": "Hanzo - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122215",
+        "name": "Hanzo - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122217",
+        "name": "Hanzo - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122218",
+        "name": "Hanzo - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122220",
+        "name": "Hanzo - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122448",
+        "name": "Hanzo - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122469",
+        "name": "Hanzo - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122473",
+        "name": "Hanzo - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122777",
+        "name": "Hanzo - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136191",
+        "name": "Hanzo - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Mercy": [
+      {
+        "code": "876346",
+        "name": "Mercy - San Francisco Shock"
+      },
+      {
+        "code": "879206",
+        "name": "Mercy - Philadelphia Fusion"
+      },
+      {
+        "code": "879255",
+        "name": "Mercy - Boston Uprising"
+      },
+      {
+        "code": "879297",
+        "name": "Mercy - Dallas Fuel"
+      },
+      {
+        "code": "879317",
+        "name": "Mercy - London Spitfire"
+      },
+      {
+        "code": "879398",
+        "name": "Mercy - Houston Outlaws"
+      },
+      {
+        "code": "879425",
+        "name": "Mercy - Seoul Dynasty"
+      },
+      {
+        "code": "879428",
+        "name": "Mercy - New York Excelsior"
+      },
+      {
+        "code": "879514",
+        "name": "Mercy - Shanghai Dragons"
+      },
+      {
+        "code": "879955",
+        "name": "Mercy - Los Angeles Valiant"
+      },
+      {
+        "code": "880895",
+        "name": "Mercy - Guangzhou Charge"
+      },
+      {
+        "code": "880969",
+        "name": "Mercy - Hangzhou Spark"
+      },
+      {
+        "code": "880986",
+        "name": "Mercy - Paris Eternal"
+      },
+      {
+        "code": "881060",
+        "name": "Mercy - Toronto Defiant"
+      },
+      {
+        "code": "881090",
+        "name": "Mercy - Vancouver Titans"
+      },
+      {
+        "code": "881176",
+        "name": "Mercy - Washington Justice"
+      },
+      {
+        "code": "881238",
+        "name": "Mercy - Atlanta Reign"
+      },
+      {
+        "code": "881877",
+        "name": "Mercy - Florida Mayhem"
+      },
+      {
+        "code": "1121421",
+        "name": "Mercy - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121467",
+        "name": "Mercy - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121690",
+        "name": "Mercy - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121715",
+        "name": "Mercy - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121720",
+        "name": "Mercy - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121965",
+        "name": "Mercy - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121966",
+        "name": "Mercy - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121968",
+        "name": "Mercy - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121970",
+        "name": "Mercy - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121972",
+        "name": "Mercy - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122226",
+        "name": "Mercy - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122230",
+        "name": "Mercy - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122231",
+        "name": "Mercy - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122233",
+        "name": "Mercy - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122484",
+        "name": "Mercy - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122485",
+        "name": "Mercy - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122488",
+        "name": "Mercy - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122786",
+        "name": "Mercy - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136172",
+        "name": "Mercy - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Mei": [
+      {
+        "code": "876354",
+        "name": "Mei - San Francisco Shock"
+      },
+      {
+        "code": "879215",
+        "name": "Mei - Philadelphia Fusion"
+      },
+      {
+        "code": "879265",
+        "name": "Mei - Boston Uprising"
+      },
+      {
+        "code": "879306",
+        "name": "Mei - Dallas Fuel"
+      },
+      {
+        "code": "879324",
+        "name": "Mei - London Spitfire"
+      },
+      {
+        "code": "879353",
+        "name": "Mei - Los Angeles Gladiators"
+      },
+      {
+        "code": "879411",
+        "name": "Mei - Houston Outlaws"
+      },
+      {
+        "code": "879439",
+        "name": "Mei - New York Excelsior"
+      },
+      {
+        "code": "879499",
+        "name": "Mei - Shanghai Dragons"
+      },
+      {
+        "code": "879509",
+        "name": "Mei - Seoul Dynasty"
+      },
+      {
+        "code": "880222",
+        "name": "Mei - Florida Mayhem"
+      },
+      {
+        "code": "880865",
+        "name": "Mei - Guangzhou Charge"
+      },
+      {
+        "code": "880941",
+        "name": "Mei - Hangzhou Spark"
+      },
+      {
+        "code": "881005",
+        "name": "Mei - Paris Eternal"
+      },
+      {
+        "code": "881067",
+        "name": "Mei - Toronto Defiant"
+      },
+      {
+        "code": "881143",
+        "name": "Mei - Washington Justice"
+      },
+      {
+        "code": "881187",
+        "name": "Mei - Vancouver Titans"
+      },
+      {
+        "code": "881220",
+        "name": "Mei - Atlanta Reign"
+      },
+      {
+        "code": "881795",
+        "name": "Mei - Los Angeles Valiant"
+      },
+      {
+        "code": "1121403",
+        "name": "Mei - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121625",
+        "name": "Mei - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121626",
+        "name": "Mei - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121629",
+        "name": "Mei - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121630",
+        "name": "Mei - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121706",
+        "name": "Mei - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121876",
+        "name": "Mei - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121878",
+        "name": "Mei - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121879",
+        "name": "Mei - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121882",
+        "name": "Mei - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121905",
+        "name": "Mei - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122136",
+        "name": "Mei - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122137",
+        "name": "Mei - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122139",
+        "name": "Mei - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122204",
+        "name": "Mei - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122388",
+        "name": "Mei - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122392",
+        "name": "Mei - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122696",
+        "name": "Mei - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136204",
+        "name": "Mei - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Doomfist": [
+      {
+        "code": "876356",
+        "name": "Doomfist - San Francisco Shock"
+      },
+      {
+        "code": "878958",
+        "name": "Doomfist - Blackhand"
+      },
+      {
+        "code": "879218",
+        "name": "Doomfist - Philadelphia Fusion"
+      },
+      {
+        "code": "879295",
+        "name": "Doomfist - Boston Uprising"
+      },
+      {
+        "code": "879325",
+        "name": "Doomfist - London Spitfire"
+      },
+      {
+        "code": "879327",
+        "name": "Doomfist - Dallas Fuel"
+      },
+      {
+        "code": "879346",
+        "name": "Doomfist - Los Angeles Gladiators"
+      },
+      {
+        "code": "879412",
+        "name": "Doomfist - Houston Outlaws"
+      },
+      {
+        "code": "879417",
+        "name": "Doomfist - New York Excelsior"
+      },
+      {
+        "code": "879511",
+        "name": "Doomfist - Seoul Dynasty"
+      },
+      {
+        "code": "879520",
+        "name": "Doomfist - Shanghai Dragons"
+      },
+      {
+        "code": "879962",
+        "name": "Doomfist - Los Angeles Valiant"
+      },
+      {
+        "code": "880186",
+        "name": "Doomfist - Florida Mayhem"
+      },
+      {
+        "code": "880881",
+        "name": "Doomfist - Guangzhou Charge"
+      },
+      {
+        "code": "880923",
+        "name": "Doomfist - Hangzhou Spark"
+      },
+      {
+        "code": "881003",
+        "name": "Doomfist - Paris Eternal"
+      },
+      {
+        "code": "881045",
+        "name": "Doomfist - Toronto Defiant"
+      },
+      {
+        "code": "881083",
+        "name": "Doomfist - Vancouver Titans"
+      },
+      {
+        "code": "881102",
+        "name": "Doomfist - Washington Justice"
+      },
+      {
+        "code": "881218",
+        "name": "Doomfist - Atlanta Reign"
+      },
+      {
+        "code": "1121409",
+        "name": "Doomfist - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121521",
+        "name": "Doomfist - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121649",
+        "name": "Doomfist - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121652",
+        "name": "Doomfist - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121654",
+        "name": "Doomfist - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121889",
+        "name": "Doomfist - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121890",
+        "name": "Doomfist - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121915",
+        "name": "Doomfist - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121916",
+        "name": "Doomfist - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121919",
+        "name": "Doomfist - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122157",
+        "name": "Doomfist - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122160",
+        "name": "Doomfist - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122164",
+        "name": "Doomfist - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122409",
+        "name": "Doomfist - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122411",
+        "name": "Doomfist - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122413",
+        "name": "Doomfist - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122417",
+        "name": "Doomfist - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122736",
+        "name": "Doomfist - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136201",
+        "name": "Doomfist - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314627",
+        "name": "Doomfist - Overwatch World Cup Home"
+      },
+      {
+        "code": "1314638",
+        "name": "Doomfist - Overwatch World Cup Away"
+      }
+    ],
+    "Bastion": [
+      {
+        "code": "876358",
+        "name": "Bastion - San Francisco Shock"
+      },
+      {
+        "code": "876388",
+        "name": "Bastion - Omnic Crisis"
+      },
+      {
+        "code": "879178",
+        "name": "Bastion - Philadelphia Fusion"
+      },
+      {
+        "code": "879259",
+        "name": "Bastion - Boston Uprising"
+      },
+      {
+        "code": "879310",
+        "name": "Bastion - Dallas Fuel"
+      },
+      {
+        "code": "879319",
+        "name": "Bastion - London Spitfire"
+      },
+      {
+        "code": "879342",
+        "name": "Bastion - Los Angeles Gladiators"
+      },
+      {
+        "code": "879401",
+        "name": "Bastion - Houston Outlaws"
+      },
+      {
+        "code": "879431",
+        "name": "Bastion - New York Excelsior"
+      },
+      {
+        "code": "879482",
+        "name": "Bastion - Seoul Dynasty"
+      },
+      {
+        "code": "879516",
+        "name": "Bastion - Shanghai Dragons"
+      },
+      {
+        "code": "879978",
+        "name": "Bastion - Los Angeles Valiant"
+      },
+      {
+        "code": "880250",
+        "name": "Bastion - Florida Mayhem"
+      },
+      {
+        "code": "880890",
+        "name": "Bastion - Guangzhou Charge"
+      },
+      {
+        "code": "880950",
+        "name": "Bastion - Hangzhou Spark"
+      },
+      {
+        "code": "881012",
+        "name": "Bastion - Paris Eternal"
+      },
+      {
+        "code": "881056",
+        "name": "Bastion - Toronto Defiant"
+      },
+      {
+        "code": "881112",
+        "name": "Bastion - Vancouver Titans"
+      },
+      {
+        "code": "881148",
+        "name": "Bastion - Washington Justice"
+      },
+      {
+        "code": "881231",
+        "name": "Bastion - Atlanta Reign"
+      },
+      {
+        "code": "1121395",
+        "name": "Bastion - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121603",
+        "name": "Bastion - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121604",
+        "name": "Bastion - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121605",
+        "name": "Bastion - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121608",
+        "name": "Bastion - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121854",
+        "name": "Bastion - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121855",
+        "name": "Bastion - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121857",
+        "name": "Bastion - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121858",
+        "name": "Bastion - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121860",
+        "name": "Bastion - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122115",
+        "name": "Bastion - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122116",
+        "name": "Bastion - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122119",
+        "name": "Bastion - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122366",
+        "name": "Bastion - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122368",
+        "name": "Bastion - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122370",
+        "name": "Bastion - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122372",
+        "name": "Bastion - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122661",
+        "name": "Bastion - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136225",
+        "name": "Bastion - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314617",
+        "name": "Bastion - Overwatch World Cup Home"
+      },
+      {
+        "code": "1314624",
+        "name": "Bastion - Overwatch World Cup Away"
+      }
+    ],
+    "Sombra": [
+      {
+        "code": "876359",
+        "name": "Sombra - San Francisco Shock"
+      },
+      {
+        "code": "879217",
+        "name": "Sombra - Philadelphia Fusion"
+      },
+      {
+        "code": "879266",
+        "name": "Sombra - Boston Uprising"
+      },
+      {
+        "code": "879314",
+        "name": "Sombra - Dallas Fuel"
+      },
+      {
+        "code": "879336",
+        "name": "Sombra - London Spitfire"
+      },
+      {
+        "code": "879345",
+        "name": "Sombra - Los Angeles Gladiators"
+      },
+      {
+        "code": "879406",
+        "name": "Sombra - Houston Outlaws"
+      },
+      {
+        "code": "879440",
+        "name": "Sombra - New York Excelsior"
+      },
+      {
+        "code": "879500",
+        "name": "Sombra - Shanghai Dragons"
+      },
+      {
+        "code": "879510",
+        "name": "Sombra - Seoul Dynasty"
+      },
+      {
+        "code": "879924",
+        "name": "Sombra - Los Angeles Valiant"
+      },
+      {
+        "code": "880228",
+        "name": "Sombra - Florida Mayhem"
+      },
+      {
+        "code": "880864",
+        "name": "Sombra - Guangzhou Charge"
+      },
+      {
+        "code": "880940",
+        "name": "Sombra - Hangzhou Spark"
+      },
+      {
+        "code": "881004",
+        "name": "Sombra - Paris Eternal"
+      },
+      {
+        "code": "881046",
+        "name": "Sombra - Toronto Defiant"
+      },
+      {
+        "code": "881084",
+        "name": "Sombra - Vancouver Titans"
+      },
+      {
+        "code": "881103",
+        "name": "Sombra - Washington Justice"
+      },
+      {
+        "code": "881219",
+        "name": "Sombra - Atlanta Reign"
+      },
+      {
+        "code": "1121358",
+        "name": "Sombra - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121437",
+        "name": "Sombra - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121528",
+        "name": "Sombra - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121532",
+        "name": "Sombra - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121533",
+        "name": "Sombra - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121535",
+        "name": "Sombra - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121778",
+        "name": "Sombra - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121780",
+        "name": "Sombra - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121781",
+        "name": "Sombra - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121783",
+        "name": "Sombra - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122035",
+        "name": "Sombra - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122037",
+        "name": "Sombra - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122039",
+        "name": "Sombra - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122041",
+        "name": "Sombra - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122290",
+        "name": "Sombra - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122292",
+        "name": "Sombra - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122294",
+        "name": "Sombra - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122536",
+        "name": "Sombra - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136258",
+        "name": "Sombra - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1535016",
+        "name": "Sombra - Gilded Hunter"
+      }
+    ],
+    "Sigma": [
+      {
+        "code": "876360",
+        "name": "Sigma - San Francisco Shock"
+      },
+      {
+        "code": "879977",
+        "name": "Sigma - Los Angeles Valiant"
+      },
+      {
+        "code": "880249",
+        "name": "Sigma - Florida Mayhem"
+      },
+      {
+        "code": "881572",
+        "name": "Sigma - Atlanta Reign"
+      },
+      {
+        "code": "881574",
+        "name": "Sigma - Boston Uprising"
+      },
+      {
+        "code": "881577",
+        "name": "Sigma - Dallas Fuel"
+      },
+      {
+        "code": "881582",
+        "name": "Sigma - Guangzhou Charge"
+      },
+      {
+        "code": "881584",
+        "name": "Sigma - Hangzhou Spark"
+      },
+      {
+        "code": "881586",
+        "name": "Sigma - Houston Outlaws"
+      },
+      {
+        "code": "881588",
+        "name": "Sigma - London Spitfire"
+      },
+      {
+        "code": "881590",
+        "name": "Sigma - Los Angeles Gladiators"
+      },
+      {
+        "code": "881594",
+        "name": "Sigma - New York Excelsior"
+      },
+      {
+        "code": "881595",
+        "name": "Sigma - Paris Eternal"
+      },
+      {
+        "code": "881597",
+        "name": "Sigma - Philadelphia Fusion"
+      },
+      {
+        "code": "881601",
+        "name": "Sigma - Seoul Dynasty"
+      },
+      {
+        "code": "881603",
+        "name": "Sigma - Shanghai Dragons"
+      },
+      {
+        "code": "881605",
+        "name": "Sigma - Toronto Defiant"
+      },
+      {
+        "code": "881607",
+        "name": "Sigma - Vancouver Titans"
+      },
+      {
+        "code": "881609",
+        "name": "Sigma - Washington Justice"
+      },
+      {
+        "code": "1121398",
+        "name": "Sigma - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121453",
+        "name": "Sigma - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121519",
+        "name": "Sigma - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121611",
+        "name": "Sigma - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121613",
+        "name": "Sigma - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121616",
+        "name": "Sigma - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121861",
+        "name": "Sigma - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121863",
+        "name": "Sigma - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121864",
+        "name": "Sigma - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121867",
+        "name": "Sigma - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122121",
+        "name": "Sigma - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122123",
+        "name": "Sigma - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122125",
+        "name": "Sigma - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122127",
+        "name": "Sigma - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122202",
+        "name": "Sigma - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122375",
+        "name": "Sigma - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122378",
+        "name": "Sigma - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122666",
+        "name": "Sigma - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136184",
+        "name": "Sigma - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1601022",
+        "name": "Sigma - Beholder"
+      }
+    ],
+    "Junkrat": [
+      {
+        "code": "876381",
+        "name": "Junkrat - Los Angeles Valiant"
+      },
+      {
+        "code": "879213",
+        "name": "Junkrat - Philadelphia Fusion"
+      },
+      {
+        "code": "879226",
+        "name": "Junkrat - Seoul Dynasty"
+      },
+      {
+        "code": "879232",
+        "name": "Junkrat - Boston Uprising"
+      },
+      {
+        "code": "879233",
+        "name": "Junkrat - Dallas Fuel"
+      },
+      {
+        "code": "879234",
+        "name": "Junkrat - London Spitfire"
+      },
+      {
+        "code": "879235",
+        "name": "Junkrat - Los Angeles Gladiators"
+      },
+      {
+        "code": "879238",
+        "name": "Junkrat - Houston Outlaws"
+      },
+      {
+        "code": "879239",
+        "name": "Junkrat - New York Excelsior"
+      },
+      {
+        "code": "879241",
+        "name": "Junkrat - Shanghai Dragons"
+      },
+      {
+        "code": "880220",
+        "name": "Junkrat - Florida Mayhem"
+      },
+      {
+        "code": "880866",
+        "name": "Junkrat - Guangzhou Charge"
+      },
+      {
+        "code": "880926",
+        "name": "Junkrat - Hangzhou Spark"
+      },
+      {
+        "code": "881010",
+        "name": "Junkrat - Paris Eternal"
+      },
+      {
+        "code": "881066",
+        "name": "Junkrat - Vancouver Titans"
+      },
+      {
+        "code": "881071",
+        "name": "Junkrat - Toronto Defiant"
+      },
+      {
+        "code": "881145",
+        "name": "Junkrat - Washington Justice"
+      },
+      {
+        "code": "881225",
+        "name": "Junkrat - Atlanta Reign"
+      },
+      {
+        "code": "881773",
+        "name": "Junkrat - San Francisco Shock"
+      },
+      {
+        "code": "1121414",
+        "name": "Junkrat - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121522",
+        "name": "Junkrat - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121523",
+        "name": "Junkrat - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121661",
+        "name": "Junkrat - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121665",
+        "name": "Junkrat - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121930",
+        "name": "Junkrat - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121931",
+        "name": "Junkrat - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121933",
+        "name": "Junkrat - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121935",
+        "name": "Junkrat - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121937",
+        "name": "Junkrat - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122172",
+        "name": "Junkrat - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122175",
+        "name": "Junkrat - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122176",
+        "name": "Junkrat - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122179",
+        "name": "Junkrat - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122425",
+        "name": "Junkrat - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122428",
+        "name": "Junkrat - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122430",
+        "name": "Junkrat - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122744",
+        "name": "Junkrat - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136177",
+        "name": "Junkrat - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Reinhardt": [
+      {
+        "code": "876389",
+        "name": "Reinhardt - Los Angeles Valiant"
+      },
+      {
+        "code": "879207",
+        "name": "Reinhardt - Philadelphia Fusion"
+      },
+      {
+        "code": "879256",
+        "name": "Reinhardt - Boston Uprising"
+      },
+      {
+        "code": "879298",
+        "name": "Reinhardt - Dallas Fuel"
+      },
+      {
+        "code": "879329",
+        "name": "Reinhardt - London Spitfire"
+      },
+      {
+        "code": "879339",
+        "name": "Reinhardt - Los Angeles Gladiators"
+      },
+      {
+        "code": "879385",
+        "name": "Reinhardt - Houston Outlaws"
+      },
+      {
+        "code": "879429",
+        "name": "Reinhardt - New York Excelsior"
+      },
+      {
+        "code": "879492",
+        "name": "Reinhardt - Shanghai Dragons"
+      },
+      {
+        "code": "880909",
+        "name": "Reinhardt - Guangzhou Charge"
+      },
+      {
+        "code": "880952",
+        "name": "Reinhardt - Hangzhou Spark"
+      },
+      {
+        "code": "881014",
+        "name": "Reinhardt - Paris Eternal"
+      },
+      {
+        "code": "881057",
+        "name": "Reinhardt - Toronto Defiant"
+      },
+      {
+        "code": "881089",
+        "name": "Reinhardt - Vancouver Titans"
+      },
+      {
+        "code": "881173",
+        "name": "Reinhardt - Washington Justice"
+      },
+      {
+        "code": "881235",
+        "name": "Reinhardt - Atlanta Reign"
+      },
+      {
+        "code": "881775",
+        "name": "Reinhardt - San Francisco Shock"
+      },
+      {
+        "code": "881897",
+        "name": "Reinhardt - Florida Mayhem"
+      },
+      {
+        "code": "1121392",
+        "name": "Reinhardt - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121448",
+        "name": "Reinhardt - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121590",
+        "name": "Reinhardt - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121591",
+        "name": "Reinhardt - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121592",
+        "name": "Reinhardt - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121594",
+        "name": "Reinhardt - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121702",
+        "name": "Reinhardt - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121843",
+        "name": "Reinhardt - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121846",
+        "name": "Reinhardt - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121847",
+        "name": "Reinhardt - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121902",
+        "name": "Reinhardt - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122101",
+        "name": "Reinhardt - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122103",
+        "name": "Reinhardt - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122104",
+        "name": "Reinhardt - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122351",
+        "name": "Reinhardt - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122352",
+        "name": "Reinhardt - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122355",
+        "name": "Reinhardt - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122651",
+        "name": "Reinhardt - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136186",
+        "name": "Reinhardt - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1400077",
+        "name": "Reinhardt - Dallas Fuel Prideful"
+      }
+    ],
+    "Wrecking Ball": [
+      {
+        "code": "876403",
+        "name": "Wrecking Ball - Los Angeles Valiant"
+      },
+      {
+        "code": "880425",
+        "name": "Wrecking Ball - Boston Uprising"
+      },
+      {
+        "code": "880426",
+        "name": "Wrecking Ball - Dallas Fuel"
+      },
+      {
+        "code": "880467",
+        "name": "Wrecking Ball - London Spitfire"
+      },
+      {
+        "code": "880468",
+        "name": "Wrecking Ball - Los Angeles Gladiators"
+      },
+      {
+        "code": "880471",
+        "name": "Wrecking Ball - Houston Outlaws"
+      },
+      {
+        "code": "880472",
+        "name": "Wrecking Ball - New York Excelsior"
+      },
+      {
+        "code": "880474",
+        "name": "Wrecking Ball - Seoul Dynasty"
+      },
+      {
+        "code": "880475",
+        "name": "Wrecking Ball - Shanghai Dragons"
+      },
+      {
+        "code": "880487",
+        "name": "Wrecking Ball - Philadelphia Fusion"
+      },
+      {
+        "code": "880886",
+        "name": "Wrecking Ball - Guangzhou Charge"
+      },
+      {
+        "code": "880947",
+        "name": "Wrecking Ball - Hangzhou Spark"
+      },
+      {
+        "code": "881011",
+        "name": "Wrecking Ball - Paris Eternal"
+      },
+      {
+        "code": "881072",
+        "name": "Wrecking Ball - Toronto Defiant"
+      },
+      {
+        "code": "881106",
+        "name": "Wrecking Ball - Washington Justice"
+      },
+      {
+        "code": "881107",
+        "name": "Wrecking Ball - Vancouver Titans"
+      },
+      {
+        "code": "881226",
+        "name": "Wrecking Ball - Atlanta Reign"
+      },
+      {
+        "code": "881540",
+        "name": "Wrecking Ball - San Francisco Shock"
+      },
+      {
+        "code": "881951",
+        "name": "Wrecking Ball - Florida Mayhem"
+      },
+      {
+        "code": "1121369",
+        "name": "Wrecking Ball - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121381",
+        "name": "Wrecking Ball - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121471",
+        "name": "Wrecking Ball - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121474",
+        "name": "Wrecking Ball - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121475",
+        "name": "Wrecking Ball - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121691",
+        "name": "Wrecking Ball - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121737",
+        "name": "Wrecking Ball - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121738",
+        "name": "Wrecking Ball - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121742",
+        "name": "Wrecking Ball - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121988",
+        "name": "Wrecking Ball - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1121989",
+        "name": "Wrecking Ball - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1121990",
+        "name": "Wrecking Ball - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1121993",
+        "name": "Wrecking Ball - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122247",
+        "name": "Wrecking Ball - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122249",
+        "name": "Wrecking Ball - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122251",
+        "name": "Wrecking Ball - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122508",
+        "name": "Wrecking Ball - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1122829",
+        "name": "Wrecking Ball - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1136245",
+        "name": "Wrecking Ball - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314097",
+        "name": "Wrecking Ball - Overwatch World Cup Home"
+      },
+      {
+        "code": "1314658",
+        "name": "Wrecking Ball - Overwatch World Cup Away"
+      }
+    ],
+    "Echo": [
+      {
+        "code": "877443",
+        "name": "Echo - Guangzhou Charge"
+      },
+      {
+        "code": "877445",
+        "name": "Echo - Houston Outlaws"
+      },
+      {
+        "code": "877446",
+        "name": "Echo - Los Angeles Gladiators"
+      },
+      {
+        "code": "877471",
+        "name": "Echo - Boston Uprising"
+      },
+      {
+        "code": "877475",
+        "name": "Echo - Atlanta Reign"
+      },
+      {
+        "code": "877476",
+        "name": "Echo - Dallas Fuel"
+      },
+      {
+        "code": "877479",
+        "name": "Echo - Florida Mayhem"
+      },
+      {
+        "code": "877481",
+        "name": "Echo - Hangzhou Spark"
+      },
+      {
+        "code": "877483",
+        "name": "Echo - London Spitfire"
+      },
+      {
+        "code": "877486",
+        "name": "Echo - New York Excelsior"
+      },
+      {
+        "code": "877488",
+        "name": "Echo - Los Angeles Valiant"
+      },
+      {
+        "code": "877489",
+        "name": "Echo - Seoul Dynasty"
+      },
+      {
+        "code": "877490",
+        "name": "Echo - Shanghai Dragons"
+      },
+      {
+        "code": "877508",
+        "name": "Echo - Paris Eternal"
+      },
+      {
+        "code": "877510",
+        "name": "Echo - Philadelphia Fusion"
+      },
+      {
+        "code": "877512",
+        "name": "Echo - San Francisco Shock"
+      },
+      {
+        "code": "877515",
+        "name": "Echo - Toronto Defiant"
+      },
+      {
+        "code": "877516",
+        "name": "Echo - Vancouver Titans"
+      },
+      {
+        "code": "877517",
+        "name": "Echo - Washington Justice"
+      },
+      {
+        "code": "1121404",
+        "name": "Echo - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121633",
+        "name": "Echo - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121636",
+        "name": "Echo - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121637",
+        "name": "Echo - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121639",
+        "name": "Echo - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121880",
+        "name": "Echo - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121883",
+        "name": "Echo - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121885",
+        "name": "Echo - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121888",
+        "name": "Echo - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121908",
+        "name": "Echo - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122142",
+        "name": "Echo - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122144",
+        "name": "Echo - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122145",
+        "name": "Echo - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122147",
+        "name": "Echo - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122205",
+        "name": "Echo - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122397",
+        "name": "Echo - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122398",
+        "name": "Echo - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122699",
+        "name": "Echo - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136182",
+        "name": "Echo - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314631",
+        "name": "Echo - Overwatch World Cup Away"
+      },
+      {
+        "code": "1314632",
+        "name": "Echo - Overwatch World Cup Home"
+      }
+    ],
+    "Torbjörn": [
+      {
+        "code": "878962",
+        "name": "Torbjörn - Magni"
+      },
+      {
+        "code": "879176",
+        "name": "Torbjörn - Philadelphia Fusion"
+      },
+      {
+        "code": "879267",
+        "name": "Torbjörn - Boston Uprising"
+      },
+      {
+        "code": "879309",
+        "name": "Torbjörn - Dallas Fuel"
+      },
+      {
+        "code": "879318",
+        "name": "Torbjörn - London Spitfire"
+      },
+      {
+        "code": "879338",
+        "name": "Torbjörn - Los Angeles Gladiators"
+      },
+      {
+        "code": "879399",
+        "name": "Torbjörn - Houston Outlaws"
+      },
+      {
+        "code": "879414",
+        "name": "Torbjörn - New York Excelsior"
+      },
+      {
+        "code": "879481",
+        "name": "Torbjörn - Seoul Dynasty"
+      },
+      {
+        "code": "879491",
+        "name": "Torbjörn - Shanghai Dragons"
+      },
+      {
+        "code": "879842",
+        "name": "Torbjörn - San Francisco Shock"
+      },
+      {
+        "code": "879979",
+        "name": "Torbjörn - Los Angeles Valiant"
+      },
+      {
+        "code": "880251",
+        "name": "Torbjörn - Florida Mayhem"
+      },
+      {
+        "code": "881174",
+        "name": "Torbjörn - Washington Justice"
+      },
+      {
+        "code": "881236",
+        "name": "Torbjörn - Atlanta Reign"
+      },
+      {
+        "code": "1121396",
+        "name": "Torbjörn - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121450",
+        "name": "Torbjörn - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121518",
+        "name": "Torbjörn - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121597",
+        "name": "Torbjörn - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121599",
+        "name": "Torbjörn - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121600",
+        "name": "Torbjörn - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121703",
+        "name": "Torbjörn - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121849",
+        "name": "Torbjörn - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121851",
+        "name": "Torbjörn - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121852",
+        "name": "Torbjörn - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122106",
+        "name": "Torbjörn - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122107",
+        "name": "Torbjörn - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122110",
+        "name": "Torbjörn - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122112",
+        "name": "Torbjörn - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122360",
+        "name": "Torbjörn - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122361",
+        "name": "Torbjörn - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122363",
+        "name": "Torbjörn - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122654",
+        "name": "Torbjörn - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136185",
+        "name": "Torbjörn - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Orisa": [
+      {
+        "code": "878970",
+        "name": "Orisa - Immortal"
+      },
+      {
+        "code": "879220",
+        "name": "Orisa - Philadelphia Fusion"
+      },
+      {
+        "code": "879504",
+        "name": "Orisa - Boston Uprising"
+      },
+      {
+        "code": "879522",
+        "name": "Orisa - London Spitfire"
+      },
+      {
+        "code": "879527",
+        "name": "Orisa - Dallas Fuel"
+      },
+      {
+        "code": "879532",
+        "name": "Orisa - Los Angeles Gladiators"
+      },
+      {
+        "code": "879542",
+        "name": "Orisa - Houston Outlaws"
+      },
+      {
+        "code": "879545",
+        "name": "Orisa - Shanghai Dragons"
+      },
+      {
+        "code": "879565",
+        "name": "Orisa - New York Excelsior"
+      },
+      {
+        "code": "879569",
+        "name": "Orisa - Seoul Dynasty"
+      },
+      {
+        "code": "879822",
+        "name": "Orisa - San Francisco Shock"
+      },
+      {
+        "code": "880879",
+        "name": "Orisa - Guangzhou Charge"
+      },
+      {
+        "code": "880939",
+        "name": "Orisa - Hangzhou Spark"
+      },
+      {
+        "code": "881002",
+        "name": "Orisa - Paris Eternal"
+      },
+      {
+        "code": "881043",
+        "name": "Orisa - Toronto Defiant"
+      },
+      {
+        "code": "881081",
+        "name": "Orisa - Vancouver Titans"
+      },
+      {
+        "code": "881142",
+        "name": "Orisa - Washington Justice"
+      },
+      {
+        "code": "881216",
+        "name": "Orisa - Atlanta Reign"
+      },
+      {
+        "code": "881791",
+        "name": "Orisa - Los Angeles Valiant"
+      },
+      {
+        "code": "881871",
+        "name": "Orisa - Florida Mayhem"
+      },
+      {
+        "code": "1121422",
+        "name": "Orisa - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121468",
+        "name": "Orisa - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121723",
+        "name": "Orisa - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121724",
+        "name": "Orisa - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121726",
+        "name": "Orisa - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121895",
+        "name": "Orisa - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121896",
+        "name": "Orisa - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121973",
+        "name": "Orisa - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121976",
+        "name": "Orisa - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121977",
+        "name": "Orisa - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122191",
+        "name": "Orisa - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122193",
+        "name": "Orisa - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122236",
+        "name": "Orisa - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122237",
+        "name": "Orisa - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122449",
+        "name": "Orisa - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122450",
+        "name": "Orisa - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122492",
+        "name": "Orisa - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122791",
+        "name": "Orisa - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136189",
+        "name": "Orisa - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314630",
+        "name": "Orisa - Overwatch World Cup Home"
+      }
+    ],
+    "Zarya": [
+      {
+        "code": "878975",
+        "name": "Zarya - Barbarian"
+      },
+      {
+        "code": "879180",
+        "name": "Zarya - Philadelphia Fusion"
+      },
+      {
+        "code": "879261",
+        "name": "Zarya - Boston Uprising"
+      },
+      {
+        "code": "879303",
+        "name": "Zarya - Dallas Fuel"
+      },
+      {
+        "code": "879320",
+        "name": "Zarya - London Spitfire"
+      },
+      {
+        "code": "879350",
+        "name": "Zarya - Los Angeles Gladiators"
+      },
+      {
+        "code": "879404",
+        "name": "Zarya - Houston Outlaws"
+      },
+      {
+        "code": "879435",
+        "name": "Zarya - New York Excelsior"
+      },
+      {
+        "code": "879485",
+        "name": "Zarya - Seoul Dynasty"
+      },
+      {
+        "code": "879496",
+        "name": "Zarya - Shanghai Dragons"
+      },
+      {
+        "code": "879875",
+        "name": "Zarya - San Francisco Shock"
+      },
+      {
+        "code": "879997",
+        "name": "Zarya - Los Angeles Valiant"
+      },
+      {
+        "code": "880263",
+        "name": "Zarya - Florida Mayhem"
+      },
+      {
+        "code": "880885",
+        "name": "Zarya - Guangzhou Charge"
+      },
+      {
+        "code": "880925",
+        "name": "Zarya - Hangzhou Spark"
+      },
+      {
+        "code": "881009",
+        "name": "Zarya - Paris Eternal"
+      },
+      {
+        "code": "881054",
+        "name": "Zarya - Toronto Defiant"
+      },
+      {
+        "code": "881087",
+        "name": "Zarya - Vancouver Titans"
+      },
+      {
+        "code": "881105",
+        "name": "Zarya - Washington Justice"
+      },
+      {
+        "code": "881224",
+        "name": "Zarya - Atlanta Reign"
+      },
+      {
+        "code": "1121388",
+        "name": "Zarya - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121446",
+        "name": "Zarya - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121574",
+        "name": "Zarya - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121575",
+        "name": "Zarya - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121576",
+        "name": "Zarya - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121579",
+        "name": "Zarya - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121700",
+        "name": "Zarya - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121821",
+        "name": "Zarya - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121823",
+        "name": "Zarya - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121826",
+        "name": "Zarya - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122082",
+        "name": "Zarya - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122084",
+        "name": "Zarya - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122085",
+        "name": "Zarya - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122086",
+        "name": "Zarya - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122336",
+        "name": "Zarya - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122338",
+        "name": "Zarya - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122340",
+        "name": "Zarya - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122458",
+        "name": "Zarya - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136250",
+        "name": "Zarya - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Roadhog": [
+      {
+        "code": "878976",
+        "name": "Roadhog - Butcher"
+      },
+      {
+        "code": "879216",
+        "name": "Roadhog - Philadelphia Fusion"
+      },
+      {
+        "code": "879269",
+        "name": "Roadhog - Boston Uprising"
+      },
+      {
+        "code": "879302",
+        "name": "Roadhog - Dallas Fuel"
+      },
+      {
+        "code": "879334",
+        "name": "Roadhog - London Spitfire"
+      },
+      {
+        "code": "879348",
+        "name": "Roadhog - Los Angeles Gladiators"
+      },
+      {
+        "code": "879408",
+        "name": "Roadhog - Houston Outlaws"
+      },
+      {
+        "code": "879433",
+        "name": "Roadhog - New York Excelsior"
+      },
+      {
+        "code": "879484",
+        "name": "Roadhog - Seoul Dynasty"
+      },
+      {
+        "code": "879495",
+        "name": "Roadhog - Shanghai Dragons"
+      },
+      {
+        "code": "879895",
+        "name": "Roadhog - San Francisco Shock"
+      },
+      {
+        "code": "880006",
+        "name": "Roadhog - Los Angeles Valiant"
+      },
+      {
+        "code": "880271",
+        "name": "Roadhog - Florida Mayhem"
+      },
+      {
+        "code": "880897",
+        "name": "Roadhog - Guangzhou Charge"
+      },
+      {
+        "code": "880955",
+        "name": "Roadhog - Hangzhou Spark"
+      },
+      {
+        "code": "881016",
+        "name": "Roadhog - Paris Eternal"
+      },
+      {
+        "code": "881062",
+        "name": "Roadhog - Toronto Defiant"
+      },
+      {
+        "code": "881116",
+        "name": "Roadhog - Vancouver Titans"
+      },
+      {
+        "code": "881178",
+        "name": "Roadhog - Washington Justice"
+      },
+      {
+        "code": "881240",
+        "name": "Roadhog - Atlanta Reign"
+      },
+      {
+        "code": "1136233",
+        "name": "Roadhog - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1136254",
+        "name": "Roadhog - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1136286",
+        "name": "Roadhog - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1136287",
+        "name": "Roadhog - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1136290",
+        "name": "Roadhog - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136294",
+        "name": "Roadhog - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1136295",
+        "name": "Roadhog - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1136298",
+        "name": "Roadhog - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1136299",
+        "name": "Roadhog - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1136300",
+        "name": "Roadhog - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1136302",
+        "name": "Roadhog - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1136305",
+        "name": "Roadhog - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1136308",
+        "name": "Roadhog - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1136309",
+        "name": "Roadhog - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1136311",
+        "name": "Roadhog - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1136313",
+        "name": "Roadhog - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1136314",
+        "name": "Roadhog - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1136316",
+        "name": "Roadhog - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1168354",
+        "name": "Roadhog - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1168357",
+        "name": "Roadhog - Overwatch 2 Contenders Home"
+      }
+    ],
+    "Winston": [
+      {
+        "code": "879177",
+        "name": "Winston - Philadelphia Fusion"
+      },
+      {
+        "code": "879257",
+        "name": "Winston - Boston Uprising"
+      },
+      {
+        "code": "879299",
+        "name": "Winston - Dallas Fuel"
+      },
+      {
+        "code": "879330",
+        "name": "Winston - London Spitfire"
+      },
+      {
+        "code": "879340",
+        "name": "Winston - Los Angeles Gladiators"
+      },
+      {
+        "code": "879400",
+        "name": "Winston - Houston Outlaws"
+      },
+      {
+        "code": "879415",
+        "name": "Winston - New York Excelsior"
+      },
+      {
+        "code": "879426",
+        "name": "Winston - Seoul Dynasty"
+      },
+      {
+        "code": "879515",
+        "name": "Winston - Shanghai Dragons"
+      },
+      {
+        "code": "880239",
+        "name": "Winston - Florida Mayhem"
+      },
+      {
+        "code": "880892",
+        "name": "Winston - Guangzhou Charge"
+      },
+      {
+        "code": "880946",
+        "name": "Winston - Hangzhou Spark"
+      },
+      {
+        "code": "881013",
+        "name": "Winston - Paris Eternal"
+      },
+      {
+        "code": "881078",
+        "name": "Winston - Toronto Defiant"
+      },
+      {
+        "code": "881088",
+        "name": "Winston - Vancouver Titans"
+      },
+      {
+        "code": "881171",
+        "name": "Winston - Washington Justice"
+      },
+      {
+        "code": "881233",
+        "name": "Winston - Atlanta Reign"
+      },
+      {
+        "code": "881783",
+        "name": "Winston - San Francisco Shock"
+      },
+      {
+        "code": "881832",
+        "name": "Winston - Los Angeles Valiant"
+      },
+      {
+        "code": "1121355",
+        "name": "Winston - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121435",
+        "name": "Winston - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121504",
+        "name": "Winston - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121507",
+        "name": "Winston - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121509",
+        "name": "Winston - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121527",
+        "name": "Winston - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121771",
+        "name": "Winston - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121773",
+        "name": "Winston - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121775",
+        "name": "Winston - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121776",
+        "name": "Winston - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122026",
+        "name": "Winston - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122028",
+        "name": "Winston - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122031",
+        "name": "Winston - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122034",
+        "name": "Winston - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122283",
+        "name": "Winston - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122286",
+        "name": "Winston - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122289",
+        "name": "Winston - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122530",
+        "name": "Winston - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136237",
+        "name": "Winston - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314642",
+        "name": "Winston - Overwatch World Cup Away"
+      },
+      {
+        "code": "1314664",
+        "name": "Winston - Overwatch World Cup Home"
+      }
+    ],
+    "Soldier: 76": [
+      {
+        "code": "879181",
+        "name": "Soldier: 76 - Philadelphia Fusion"
+      },
+      {
+        "code": "879262",
+        "name": "Soldier: 76 - Boston Uprising"
+      },
+      {
+        "code": "879304",
+        "name": "Soldier: 76 - Dallas Fuel"
+      },
+      {
+        "code": "879321",
+        "name": "Soldier: 76 - London Spitfire"
+      },
+      {
+        "code": "879351",
+        "name": "Soldier: 76 - Los Angeles Gladiators"
+      },
+      {
+        "code": "879405",
+        "name": "Soldier: 76 - Houston Outlaws"
+      },
+      {
+        "code": "879436",
+        "name": "Soldier: 76 - New York Excelsior"
+      },
+      {
+        "code": "879486",
+        "name": "Soldier: 76 - Seoul Dynasty"
+      },
+      {
+        "code": "879519",
+        "name": "Soldier: 76 - Shanghai Dragons"
+      },
+      {
+        "code": "880272",
+        "name": "Soldier: 76 - Florida Mayhem"
+      },
+      {
+        "code": "880884",
+        "name": "Soldier: 76 - Guangzhou Charge"
+      },
+      {
+        "code": "880943",
+        "name": "Soldier: 76 - Hangzhou Spark"
+      },
+      {
+        "code": "881007",
+        "name": "Soldier: 76 - Paris Eternal"
+      },
+      {
+        "code": "881065",
+        "name": "Soldier: 76 - Vancouver Titans"
+      },
+      {
+        "code": "881070",
+        "name": "Soldier: 76 - Toronto Defiant"
+      },
+      {
+        "code": "881144",
+        "name": "Soldier: 76 - Washington Justice"
+      },
+      {
+        "code": "881223",
+        "name": "Soldier: 76 - Atlanta Reign"
+      },
+      {
+        "code": "881782",
+        "name": "Soldier: 76 - San Francisco Shock"
+      },
+      {
+        "code": "881830",
+        "name": "Soldier: 76 - Los Angeles Valiant"
+      },
+      {
+        "code": "1121360",
+        "name": "Soldier: 76 - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121439",
+        "name": "Soldier: 76 - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121538",
+        "name": "Soldier: 76 - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121540",
+        "name": "Soldier: 76 - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121542",
+        "name": "Soldier: 76 - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121544",
+        "name": "Soldier: 76 - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121696",
+        "name": "Soldier: 76 - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121697",
+        "name": "Soldier: 76 - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121787",
+        "name": "Soldier: 76 - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121789",
+        "name": "Soldier: 76 - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122044",
+        "name": "Soldier: 76 - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122046",
+        "name": "Soldier: 76 - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122048",
+        "name": "Soldier: 76 - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122051",
+        "name": "Soldier: 76 - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122299",
+        "name": "Soldier: 76 - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122300",
+        "name": "Soldier: 76 - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122302",
+        "name": "Soldier: 76 - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122571",
+        "name": "Soldier: 76 - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136256",
+        "name": "Soldier: 76 - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1601019",
+        "name": "Soldier: 76 - Fuel Biker: 76"
+      },
+      {
+        "code": "1601026",
+        "name": "Soldier: 76 - Mayhem Biker: 76"
+      }
+    ],
+    "Pharah": [
+      {
+        "code": "879182",
+        "name": "Pharah - Boston Uprising"
+      },
+      {
+        "code": "879183",
+        "name": "Pharah - Los Angeles Gladiators"
+      },
+      {
+        "code": "879186",
+        "name": "Pharah - Houston Outlaws"
+      },
+      {
+        "code": "879208",
+        "name": "Pharah - Philadelphia Fusion"
+      },
+      {
+        "code": "879224",
+        "name": "Pharah - Dallas Fuel"
+      },
+      {
+        "code": "879225",
+        "name": "Pharah - London Spitfire"
+      },
+      {
+        "code": "879227",
+        "name": "Pharah - New York Excelsior"
+      },
+      {
+        "code": "879229",
+        "name": "Pharah - Seoul Dynasty"
+      },
+      {
+        "code": "879230",
+        "name": "Pharah - Shanghai Dragons"
+      },
+      {
+        "code": "880027",
+        "name": "Pharah - Los Angeles Valiant"
+      },
+      {
+        "code": "880240",
+        "name": "Pharah - Florida Mayhem"
+      },
+      {
+        "code": "880908",
+        "name": "Pharah - Guangzhou Charge"
+      },
+      {
+        "code": "880967",
+        "name": "Pharah - Hangzhou Spark"
+      },
+      {
+        "code": "880983",
+        "name": "Pharah - Paris Eternal"
+      },
+      {
+        "code": "881077",
+        "name": "Pharah - Toronto Defiant"
+      },
+      {
+        "code": "881114",
+        "name": "Pharah - Vancouver Titans"
+      },
+      {
+        "code": "881172",
+        "name": "Pharah - Washington Justice"
+      },
+      {
+        "code": "881234",
+        "name": "Pharah - Atlanta Reign"
+      },
+      {
+        "code": "881781",
+        "name": "Pharah - San Francisco Shock"
+      },
+      {
+        "code": "1121362",
+        "name": "Pharah - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121440",
+        "name": "Pharah - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121545",
+        "name": "Pharah - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121548",
+        "name": "Pharah - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121550",
+        "name": "Pharah - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121790",
+        "name": "Pharah - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121791",
+        "name": "Pharah - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121793",
+        "name": "Pharah - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121795",
+        "name": "Pharah - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121797",
+        "name": "Pharah - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122052",
+        "name": "Pharah - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122055",
+        "name": "Pharah - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122056",
+        "name": "Pharah - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122058",
+        "name": "Pharah - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122306",
+        "name": "Pharah - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122307",
+        "name": "Pharah - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122310",
+        "name": "Pharah - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122453",
+        "name": "Pharah - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136255",
+        "name": "Pharah - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314582",
+        "name": "Pharah - Overwatch World Cup Home"
+      },
+      {
+        "code": "1314660",
+        "name": "Pharah - Overwatch World Cup Away"
+      }
+    ],
+    "Zenyatta": [
+      {
+        "code": "879210",
+        "name": "Zenyatta - Philadelphia Fusion"
+      },
+      {
+        "code": "879260",
+        "name": "Zenyatta - Boston Uprising"
+      },
+      {
+        "code": "879301",
+        "name": "Zenyatta - Dallas Fuel"
+      },
+      {
+        "code": "879333",
+        "name": "Zenyatta - London Spitfire"
+      },
+      {
+        "code": "879347",
+        "name": "Zenyatta - Los Angeles Gladiators"
+      },
+      {
+        "code": "879407",
+        "name": "Zenyatta - Houston Outlaws"
+      },
+      {
+        "code": "879432",
+        "name": "Zenyatta - New York Excelsior"
+      },
+      {
+        "code": "879483",
+        "name": "Zenyatta - Seoul Dynasty"
+      },
+      {
+        "code": "879517",
+        "name": "Zenyatta - Shanghai Dragons"
+      },
+      {
+        "code": "879828",
+        "name": "Zenyatta - San Francisco Shock"
+      },
+      {
+        "code": "879922",
+        "name": "Zenyatta - Los Angeles Valiant"
+      },
+      {
+        "code": "880888",
+        "name": "Zenyatta - Guangzhou Charge"
+      },
+      {
+        "code": "880945",
+        "name": "Zenyatta - Hangzhou Spark"
+      },
+      {
+        "code": "880980",
+        "name": "Zenyatta - Paris Eternal"
+      },
+      {
+        "code": "881055",
+        "name": "Zenyatta - Toronto Defiant"
+      },
+      {
+        "code": "881110",
+        "name": "Zenyatta - Vancouver Titans"
+      },
+      {
+        "code": "881168",
+        "name": "Zenyatta - Washington Justice"
+      },
+      {
+        "code": "881229",
+        "name": "Zenyatta - Atlanta Reign"
+      },
+      {
+        "code": "881894",
+        "name": "Zenyatta - Florida Mayhem"
+      },
+      {
+        "code": "1121413",
+        "name": "Zenyatta - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121465",
+        "name": "Zenyatta - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121669",
+        "name": "Zenyatta - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121671",
+        "name": "Zenyatta - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121673",
+        "name": "Zenyatta - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121675",
+        "name": "Zenyatta - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121938",
+        "name": "Zenyatta - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121940",
+        "name": "Zenyatta - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121941",
+        "name": "Zenyatta - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121944",
+        "name": "Zenyatta - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122180",
+        "name": "Zenyatta - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122183",
+        "name": "Zenyatta - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122184",
+        "name": "Zenyatta - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122187",
+        "name": "Zenyatta - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122434",
+        "name": "Zenyatta - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122436",
+        "name": "Zenyatta - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122438",
+        "name": "Zenyatta - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122753",
+        "name": "Zenyatta - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136194",
+        "name": "Zenyatta - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Genji": [
+      {
+        "code": "879211",
+        "name": "Genji - Philadelphia Fusion"
+      },
+      {
+        "code": "879242",
+        "name": "Genji - Boston Uprising"
+      },
+      {
+        "code": "879243",
+        "name": "Genji - Dallas Fuel"
+      },
+      {
+        "code": "879244",
+        "name": "Genji - London Spitfire"
+      },
+      {
+        "code": "879246",
+        "name": "Genji - Houston Outlaws"
+      },
+      {
+        "code": "879247",
+        "name": "Genji - Los Angeles Gladiators"
+      },
+      {
+        "code": "879249",
+        "name": "Genji - New York Excelsior"
+      },
+      {
+        "code": "879251",
+        "name": "Genji - Seoul Dynasty"
+      },
+      {
+        "code": "879252",
+        "name": "Genji - Shanghai Dragons"
+      },
+      {
+        "code": "879903",
+        "name": "Genji - San Francisco Shock"
+      },
+      {
+        "code": "880275",
+        "name": "Genji - Florida Mayhem"
+      },
+      {
+        "code": "880907",
+        "name": "Genji - Guangzhou Charge"
+      },
+      {
+        "code": "880944",
+        "name": "Genji - Hangzhou Spark"
+      },
+      {
+        "code": "880979",
+        "name": "Genji - Paris Eternal"
+      },
+      {
+        "code": "881074",
+        "name": "Genji - Toronto Defiant"
+      },
+      {
+        "code": "881109",
+        "name": "Genji - Vancouver Titans"
+      },
+      {
+        "code": "881167",
+        "name": "Genji - Washington Justice"
+      },
+      {
+        "code": "881228",
+        "name": "Genji - Atlanta Reign"
+      },
+      {
+        "code": "881834",
+        "name": "Genji - Los Angeles Valiant"
+      },
+      {
+        "code": "1121371",
+        "name": "Genji - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121385",
+        "name": "Genji - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121386",
+        "name": "Genji - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121498",
+        "name": "Genji - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121501",
+        "name": "Genji - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121763",
+        "name": "Genji - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121764",
+        "name": "Genji - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121765",
+        "name": "Genji - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121768",
+        "name": "Genji - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121770",
+        "name": "Genji - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122018",
+        "name": "Genji - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122021",
+        "name": "Genji - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122023",
+        "name": "Genji - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122025",
+        "name": "Genji - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122276",
+        "name": "Genji - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122278",
+        "name": "Genji - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122279",
+        "name": "Genji - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122526",
+        "name": "Genji - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136239",
+        "name": "Genji - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Cassidy": [
+      {
+        "code": "879212",
+        "name": "Cassidy - Philadelphia Fusion"
+      },
+      {
+        "code": "879270",
+        "name": "Cassidy - Boston Uprising"
+      },
+      {
+        "code": "879312",
+        "name": "Cassidy - Dallas Fuel"
+      },
+      {
+        "code": "879335",
+        "name": "Cassidy - London Spitfire"
+      },
+      {
+        "code": "879349",
+        "name": "Cassidy - Los Angeles Gladiators"
+      },
+      {
+        "code": "879403",
+        "name": "Cassidy - Houston Outlaws"
+      },
+      {
+        "code": "879434",
+        "name": "Cassidy - New York Excelsior"
+      },
+      {
+        "code": "879489",
+        "name": "Cassidy - Seoul Dynasty"
+      },
+      {
+        "code": "879518",
+        "name": "Cassidy - Shanghai Dragons"
+      },
+      {
+        "code": "879827",
+        "name": "Cassidy - San Francisco Shock"
+      },
+      {
+        "code": "879960",
+        "name": "Cassidy - Los Angeles Valiant"
+      },
+      {
+        "code": "880887",
+        "name": "Cassidy - Guangzhou Charge"
+      },
+      {
+        "code": "880978",
+        "name": "Cassidy - Paris Eternal"
+      },
+      {
+        "code": "881073",
+        "name": "Cassidy - Toronto Defiant"
+      },
+      {
+        "code": "881108",
+        "name": "Cassidy - Vancouver Titans"
+      },
+      {
+        "code": "881147",
+        "name": "Cassidy - Washington Justice"
+      },
+      {
+        "code": "881227",
+        "name": "Cassidy - Atlanta Reign"
+      },
+      {
+        "code": "881892",
+        "name": "Cassidy - Florida Mayhem"
+      },
+      {
+        "code": "1121415",
+        "name": "Cassidy - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121525",
+        "name": "Cassidy - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121677",
+        "name": "Cassidy - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121679",
+        "name": "Cassidy - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121680",
+        "name": "Cassidy - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121891",
+        "name": "Cassidy - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121945",
+        "name": "Cassidy - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121947",
+        "name": "Cassidy - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121949",
+        "name": "Cassidy - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121950",
+        "name": "Cassidy - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122186",
+        "name": "Cassidy - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122208",
+        "name": "Cassidy - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122210",
+        "name": "Cassidy - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122212",
+        "name": "Cassidy - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122443",
+        "name": "Cassidy - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122444",
+        "name": "Cassidy - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122446",
+        "name": "Cassidy - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122773",
+        "name": "Cassidy - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136192",
+        "name": "Cassidy - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Ana": [
+      {
+        "code": "879219",
+        "name": "Ana - Philadelphia Fusion"
+      },
+      {
+        "code": "879503",
+        "name": "Ana - Boston Uprising"
+      },
+      {
+        "code": "879506",
+        "name": "Ana - Dallas Fuel"
+      },
+      {
+        "code": "879529",
+        "name": "Ana - London Spitfire"
+      },
+      {
+        "code": "879531",
+        "name": "Ana - Los Angeles Gladiators"
+      },
+      {
+        "code": "879540",
+        "name": "Ana - Houston Outlaws"
+      },
+      {
+        "code": "879544",
+        "name": "Ana - Seoul Dynasty"
+      },
+      {
+        "code": "879564",
+        "name": "Ana - New York Excelsior"
+      },
+      {
+        "code": "879571",
+        "name": "Ana - Shanghai Dragons"
+      },
+      {
+        "code": "879794",
+        "name": "Ana - San Francisco Shock"
+      },
+      {
+        "code": "880880",
+        "name": "Ana - Guangzhou Charge"
+      },
+      {
+        "code": "880922",
+        "name": "Ana - Hangzhou Spark"
+      },
+      {
+        "code": "880977",
+        "name": "Ana - Paris Eternal"
+      },
+      {
+        "code": "881044",
+        "name": "Ana - Toronto Defiant"
+      },
+      {
+        "code": "881082",
+        "name": "Ana - Vancouver Titans"
+      },
+      {
+        "code": "881101",
+        "name": "Ana - Washington Justice"
+      },
+      {
+        "code": "881217",
+        "name": "Ana - Atlanta Reign"
+      },
+      {
+        "code": "881790",
+        "name": "Ana - Los Angeles Valiant"
+      },
+      {
+        "code": "881869",
+        "name": "Ana - Florida Mayhem"
+      },
+      {
+        "code": "1121428",
+        "name": "Ana - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121728",
+        "name": "Ana - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121730",
+        "name": "Ana - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121732",
+        "name": "Ana - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121733",
+        "name": "Ana - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121979",
+        "name": "Ana - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121980",
+        "name": "Ana - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121982",
+        "name": "Ana - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121983",
+        "name": "Ana - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121984",
+        "name": "Ana - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122240",
+        "name": "Ana - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122241",
+        "name": "Ana - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122244",
+        "name": "Ana - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122496",
+        "name": "Ana - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122498",
+        "name": "Ana - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122501",
+        "name": "Ana - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122502",
+        "name": "Ana - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122794",
+        "name": "Ana - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136169",
+        "name": "Ana - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1314577",
+        "name": "Ana - Overwatch World Cup Away"
+      },
+      {
+        "code": "1314578",
+        "name": "Ana - Overwatch World Cup Home"
+      }
+    ],
+    "Moira": [
+      {
+        "code": "879221",
+        "name": "Moira - Philadelphia Fusion"
+      },
+      {
+        "code": "879307",
+        "name": "Moira - Boston Uprising"
+      },
+      {
+        "code": "879315",
+        "name": "Moira - Dallas Fuel"
+      },
+      {
+        "code": "879413",
+        "name": "Moira - Houston Outlaws"
+      },
+      {
+        "code": "879441",
+        "name": "Moira - New York Excelsior"
+      },
+      {
+        "code": "879501",
+        "name": "Moira - Shanghai Dragons"
+      },
+      {
+        "code": "879512",
+        "name": "Moira - Seoul Dynasty"
+      },
+      {
+        "code": "879872",
+        "name": "Moira - San Francisco Shock"
+      },
+      {
+        "code": "880261",
+        "name": "Moira - Florida Mayhem"
+      },
+      {
+        "code": "880862",
+        "name": "Moira - Guangzhou Charge"
+      },
+      {
+        "code": "880920",
+        "name": "Moira - Hangzhou Spark"
+      },
+      {
+        "code": "881001",
+        "name": "Moira - Paris Eternal"
+      },
+      {
+        "code": "881042",
+        "name": "Moira - Toronto Defiant"
+      },
+      {
+        "code": "881079",
+        "name": "Moira - Vancouver Titans"
+      },
+      {
+        "code": "881141",
+        "name": "Moira - Washington Justice"
+      },
+      {
+        "code": "881215",
+        "name": "Moira - Atlanta Reign"
+      },
+      {
+        "code": "881544",
+        "name": "Moira - Los Angeles Valiant"
+      },
+      {
+        "code": "1121390",
+        "name": "Moira - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121447",
+        "name": "Moira - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121514",
+        "name": "Moira - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121582",
+        "name": "Moira - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121584",
+        "name": "Moira - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121827",
+        "name": "Moira - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121828",
+        "name": "Moira - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121829",
+        "name": "Moira - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121832",
+        "name": "Moira - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121836",
+        "name": "Moira - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121901",
+        "name": "Moira - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122090",
+        "name": "Moira - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122092",
+        "name": "Moira - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122094",
+        "name": "Moira - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122343",
+        "name": "Moira - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122346",
+        "name": "Moira - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122348",
+        "name": "Moira - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122595",
+        "name": "Moira - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136248",
+        "name": "Moira - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "D.Va": [
+      {
+        "code": "879264",
+        "name": "D.Va - Boston Uprising"
+      },
+      {
+        "code": "879313",
+        "name": "D.Va - Dallas Fuel"
+      },
+      {
+        "code": "879323",
+        "name": "D.Va - London Spitfire"
+      },
+      {
+        "code": "879344",
+        "name": "D.Va - Los Angeles Gladiators"
+      },
+      {
+        "code": "879410",
+        "name": "D.Va - Houston Outlaws"
+      },
+      {
+        "code": "879438",
+        "name": "D.Va - New York Excelsior"
+      },
+      {
+        "code": "879498",
+        "name": "D.Va - Shanghai Dragons"
+      },
+      {
+        "code": "879508",
+        "name": "D.Va - Seoul Dynasty"
+      },
+      {
+        "code": "879887",
+        "name": "D.Va - San Francisco Shock"
+      },
+      {
+        "code": "880262",
+        "name": "D.Va - Florida Mayhem"
+      },
+      {
+        "code": "880882",
+        "name": "D.Va - Guangzhou Charge"
+      },
+      {
+        "code": "880924",
+        "name": "D.Va - Hangzhou Spark"
+      },
+      {
+        "code": "881006",
+        "name": "D.Va - Paris Eternal"
+      },
+      {
+        "code": "881068",
+        "name": "D.Va - Toronto Defiant"
+      },
+      {
+        "code": "881085",
+        "name": "D.Va - Vancouver Titans"
+      },
+      {
+        "code": "881146",
+        "name": "D.Va - Washington Justice"
+      },
+      {
+        "code": "881221",
+        "name": "D.Va - Atlanta Reign"
+      },
+      {
+        "code": "881806",
+        "name": "D.Va - Los Angeles Valiant"
+      },
+      {
+        "code": "1121407",
+        "name": "D.Va - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121520",
+        "name": "D.Va - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121642",
+        "name": "D.Va - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121644",
+        "name": "D.Va - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121646",
+        "name": "D.Va - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121907",
+        "name": "D.Va - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121909",
+        "name": "D.Va - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121911",
+        "name": "D.Va - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121912",
+        "name": "D.Va - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121918",
+        "name": "D.Va - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122149",
+        "name": "D.Va - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122151",
+        "name": "D.Va - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122153",
+        "name": "D.Va - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122154",
+        "name": "D.Va - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122402",
+        "name": "D.Va - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122403",
+        "name": "D.Va - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122405",
+        "name": "D.Va - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122707",
+        "name": "D.Va - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136181",
+        "name": "D.Va - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Brigitte": [
+      {
+        "code": "879791",
+        "name": "Brigitte - Shanghai Dragons"
+      },
+      {
+        "code": "879809",
+        "name": "Brigitte - Boston Uprising"
+      },
+      {
+        "code": "879810",
+        "name": "Brigitte - London Spitfire"
+      },
+      {
+        "code": "879811",
+        "name": "Brigitte - Los Angeles Gladiators"
+      },
+      {
+        "code": "879814",
+        "name": "Brigitte - Houston Outlaws"
+      },
+      {
+        "code": "879815",
+        "name": "Brigitte - New York Excelsior"
+      },
+      {
+        "code": "879816",
+        "name": "Brigitte - Philadelphia Fusion"
+      },
+      {
+        "code": "879818",
+        "name": "Brigitte - Seoul Dynasty"
+      },
+      {
+        "code": "879876",
+        "name": "Brigitte - San Francisco Shock"
+      },
+      {
+        "code": "880264",
+        "name": "Brigitte - Florida Mayhem"
+      },
+      {
+        "code": "880863",
+        "name": "Brigitte - Guangzhou Charge"
+      },
+      {
+        "code": "880921",
+        "name": "Brigitte - Hangzhou Spark"
+      },
+      {
+        "code": "880976",
+        "name": "Brigitte - Paris Eternal"
+      },
+      {
+        "code": "881053",
+        "name": "Brigitte - Toronto Defiant"
+      },
+      {
+        "code": "881080",
+        "name": "Brigitte - Vancouver Titans"
+      },
+      {
+        "code": "881100",
+        "name": "Brigitte - Washington Justice"
+      },
+      {
+        "code": "881214",
+        "name": "Brigitte - Atlanta Reign"
+      },
+      {
+        "code": "881829",
+        "name": "Brigitte - Los Angeles Valiant"
+      },
+      {
+        "code": "1121366",
+        "name": "Brigitte - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121568",
+        "name": "Brigitte - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121569",
+        "name": "Brigitte - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121570",
+        "name": "Brigitte - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121572",
+        "name": "Brigitte - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121813",
+        "name": "Brigitte - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121814",
+        "name": "Brigitte - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121815",
+        "name": "Brigitte - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121817",
+        "name": "Brigitte - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121819",
+        "name": "Brigitte - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122075",
+        "name": "Brigitte - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122077",
+        "name": "Brigitte - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122078",
+        "name": "Brigitte - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122326",
+        "name": "Brigitte - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122329",
+        "name": "Brigitte - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122331",
+        "name": "Brigitte - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122333",
+        "name": "Brigitte - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122457",
+        "name": "Brigitte - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136229",
+        "name": "Brigitte - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Ashe": [
+      {
+        "code": "879795",
+        "name": "Ashe - San Francisco Shock"
+      },
+      {
+        "code": "879956",
+        "name": "Ashe - Los Angeles Valiant"
+      },
+      {
+        "code": "880653",
+        "name": "Ashe - Boston Uprising"
+      },
+      {
+        "code": "880654",
+        "name": "Ashe - Dallas Fuel"
+      },
+      {
+        "code": "880655",
+        "name": "Ashe - London Spitfire"
+      },
+      {
+        "code": "880656",
+        "name": "Ashe - Houston Outlaws"
+      },
+      {
+        "code": "880657",
+        "name": "Ashe - New York Excelsior"
+      },
+      {
+        "code": "880658",
+        "name": "Ashe - Philadelphia Fusion"
+      },
+      {
+        "code": "880659",
+        "name": "Ashe - Seoul Dynasty"
+      },
+      {
+        "code": "880681",
+        "name": "Ashe - Shanghai Dragons"
+      },
+      {
+        "code": "880910",
+        "name": "Ashe - Guangzhou Charge"
+      },
+      {
+        "code": "880956",
+        "name": "Ashe - Hangzhou Spark"
+      },
+      {
+        "code": "881027",
+        "name": "Ashe - Paris Eternal"
+      },
+      {
+        "code": "881063",
+        "name": "Ashe - Toronto Defiant"
+      },
+      {
+        "code": "881117",
+        "name": "Ashe - Vancouver Titans"
+      },
+      {
+        "code": "881149",
+        "name": "Ashe - Washington Justice"
+      },
+      {
+        "code": "881241",
+        "name": "Ashe - Atlanta Reign"
+      },
+      {
+        "code": "881882",
+        "name": "Ashe - Florida Mayhem"
+      },
+      {
+        "code": "1121420",
+        "name": "Ashe - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121689",
+        "name": "Ashe - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121708",
+        "name": "Ashe - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121709",
+        "name": "Ashe - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121713",
+        "name": "Ashe - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121958",
+        "name": "Ashe - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121959",
+        "name": "Ashe - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121961",
+        "name": "Ashe - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121962",
+        "name": "Ashe - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121964",
+        "name": "Ashe - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122190",
+        "name": "Ashe - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122223",
+        "name": "Ashe - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122224",
+        "name": "Ashe - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122474",
+        "name": "Ashe - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122476",
+        "name": "Ashe - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122479",
+        "name": "Ashe - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122483",
+        "name": "Ashe - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122782",
+        "name": "Ashe - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136175",
+        "name": "Ashe - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Baptiste": [
+      {
+        "code": "879858",
+        "name": "Baptiste - San Francisco Shock"
+      },
+      {
+        "code": "879976",
+        "name": "Baptiste - Los Angeles Valiant"
+      },
+      {
+        "code": "880225",
+        "name": "Baptiste - Florida Mayhem"
+      },
+      {
+        "code": "881290",
+        "name": "Baptiste - Shanghai Dragons"
+      },
+      {
+        "code": "881331",
+        "name": "Baptiste - Boston Uprising"
+      },
+      {
+        "code": "881333",
+        "name": "Baptiste - Atlanta Reign"
+      },
+      {
+        "code": "881338",
+        "name": "Baptiste - Seoul Dynasty"
+      },
+      {
+        "code": "881339",
+        "name": "Baptiste - London Spitfire"
+      },
+      {
+        "code": "881340",
+        "name": "Baptiste - Dallas Fuel"
+      },
+      {
+        "code": "881341",
+        "name": "Baptiste - Houston Outlaws"
+      },
+      {
+        "code": "881342",
+        "name": "Baptiste - New York Excelsior"
+      },
+      {
+        "code": "881343",
+        "name": "Baptiste - Philadelphia Fusion"
+      },
+      {
+        "code": "881350",
+        "name": "Baptiste - Los Angeles Gladiators"
+      },
+      {
+        "code": "881355",
+        "name": "Baptiste - Washington Justice"
+      },
+      {
+        "code": "881357",
+        "name": "Baptiste - Vancouver Titans"
+      },
+      {
+        "code": "881358",
+        "name": "Baptiste - Toronto Defiant"
+      },
+      {
+        "code": "881360",
+        "name": "Baptiste - Paris Eternal"
+      },
+      {
+        "code": "881361",
+        "name": "Baptiste - Hangzhou Spark"
+      },
+      {
+        "code": "881363",
+        "name": "Baptiste - Guangzhou Charge"
+      },
+      {
+        "code": "1121400",
+        "name": "Baptiste - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121618",
+        "name": "Baptiste - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121619",
+        "name": "Baptiste - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121620",
+        "name": "Baptiste - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121627",
+        "name": "Baptiste - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121868",
+        "name": "Baptiste - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121870",
+        "name": "Baptiste - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121871",
+        "name": "Baptiste - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121873",
+        "name": "Baptiste - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121874",
+        "name": "Baptiste - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1121904",
+        "name": "Baptiste - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122130",
+        "name": "Baptiste - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122132",
+        "name": "Baptiste - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122381",
+        "name": "Baptiste - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122383",
+        "name": "Baptiste - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122385",
+        "name": "Baptiste - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122387",
+        "name": "Baptiste - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122692",
+        "name": "Baptiste - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136211",
+        "name": "Baptiste - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Ramattra": [
+      {
+        "code": "1121372",
+        "name": "Ramattra - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1121443",
+        "name": "Ramattra - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1121559",
+        "name": "Ramattra - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121563",
+        "name": "Ramattra - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1121564",
+        "name": "Ramattra - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1121805",
+        "name": "Ramattra - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1121806",
+        "name": "Ramattra - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121809",
+        "name": "Ramattra - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121810",
+        "name": "Ramattra - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1121812",
+        "name": "Ramattra - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122067",
+        "name": "Ramattra - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122069",
+        "name": "Ramattra - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122071",
+        "name": "Ramattra - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122073",
+        "name": "Ramattra - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122320",
+        "name": "Ramattra - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122322",
+        "name": "Ramattra - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122324",
+        "name": "Ramattra - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122587",
+        "name": "Ramattra - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1136230",
+        "name": "Ramattra - Overwatch 2 Seoul Dynasty"
+      }
+    ],
+    "Sojourn": [
+      {
+        "code": "1121511",
+        "name": "Sojourn - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121694",
+        "name": "Sojourn - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121695",
+        "name": "Sojourn - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122042",
+        "name": "Sojourn - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122537",
+        "name": "Sojourn - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1122540",
+        "name": "Sojourn - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1122542",
+        "name": "Sojourn - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1122544",
+        "name": "Sojourn - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1122546",
+        "name": "Sojourn - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1122548",
+        "name": "Sojourn - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122550",
+        "name": "Sojourn - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122552",
+        "name": "Sojourn - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122554",
+        "name": "Sojourn - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122557",
+        "name": "Sojourn - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122558",
+        "name": "Sojourn - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122559",
+        "name": "Sojourn - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122567",
+        "name": "Sojourn - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1122798",
+        "name": "Sojourn - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1122804",
+        "name": "Sojourn - Overwatch 2 Atlanta Reign"
+      }
+    ],
+    "Kiriko": [
+      {
+        "code": "1121516",
+        "name": "Kiriko - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121834",
+        "name": "Kiriko - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1121838",
+        "name": "Kiriko - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1122095",
+        "name": "Kiriko - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122460",
+        "name": "Kiriko - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1122461",
+        "name": "Kiriko - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1122462",
+        "name": "Kiriko - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122597",
+        "name": "Kiriko - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1122599",
+        "name": "Kiriko - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1122603",
+        "name": "Kiriko - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1122606",
+        "name": "Kiriko - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122609",
+        "name": "Kiriko - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122611",
+        "name": "Kiriko - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122613",
+        "name": "Kiriko - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122614",
+        "name": "Kiriko - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122615",
+        "name": "Kiriko - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122622",
+        "name": "Kiriko - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1122806",
+        "name": "Kiriko - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1122816",
+        "name": "Kiriko - Overwatch 2 Atlanta Reign"
+      }
+    ],
+    "Junker Queen": [
+      {
+        "code": "1121587",
+        "name": "Junker Queen - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1121701",
+        "name": "Junker Queen - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1121840",
+        "name": "Junker Queen - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1122097",
+        "name": "Junker Queen - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1122624",
+        "name": "Junker Queen - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1122626",
+        "name": "Junker Queen - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1122628",
+        "name": "Junker Queen - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1122629",
+        "name": "Junker Queen - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1122630",
+        "name": "Junker Queen - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1122631",
+        "name": "Junker Queen - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1122633",
+        "name": "Junker Queen - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1122634",
+        "name": "Junker Queen - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1122635",
+        "name": "Junker Queen - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1122638",
+        "name": "Junker Queen - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1122640",
+        "name": "Junker Queen - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1122642",
+        "name": "Junker Queen - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1122647",
+        "name": "Junker Queen - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1122818",
+        "name": "Junker Queen - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1122826",
+        "name": "Junker Queen - Overwatch 2 Atlanta Reign"
+      }
+    ],
+    "Lifeweaver": [
+      {
+        "code": "1238158",
+        "name": "Lifeweaver - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1238159",
+        "name": "Lifeweaver - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1238160",
+        "name": "Lifeweaver - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1238162",
+        "name": "Lifeweaver - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1238163",
+        "name": "Lifeweaver - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1238164",
+        "name": "Lifeweaver - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1238165",
+        "name": "Lifeweaver - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1238166",
+        "name": "Lifeweaver - Overwatch 2 Los Angeles Gladiators"
+      },
+      {
+        "code": "1238167",
+        "name": "Lifeweaver - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1238168",
+        "name": "Lifeweaver - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1238169",
+        "name": "Lifeweaver - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1238170",
+        "name": "Lifeweaver - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1238171",
+        "name": "Lifeweaver - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1238172",
+        "name": "Lifeweaver - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1238173",
+        "name": "Lifeweaver - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1238174",
+        "name": "Lifeweaver - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1238175",
+        "name": "Lifeweaver - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1238176",
+        "name": "Lifeweaver - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1238177",
+        "name": "Lifeweaver - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1601023",
+        "name": "Lifeweaver - Harbinger"
+      }
+    ],
+    "Illari": [
+      {
+        "code": "1458166",
+        "name": "Illari - Atlanta Reign Away"
+      },
+      {
+        "code": "1458167",
+        "name": "Illari - Overwatch 2 Dallas Fuel"
+      },
+      {
+        "code": "1458168",
+        "name": "Illari - Dallas Fuel Away"
+      },
+      {
+        "code": "1458169",
+        "name": "Illari - Overwatch 2 Florida Mayhem"
+      },
+      {
+        "code": "1458170",
+        "name": "Illari - Florida Mayhem Away_02"
+      },
+      {
+        "code": "1458171",
+        "name": "Illari - Hangzhou Spark Away"
+      },
+      {
+        "code": "1458172",
+        "name": "Illari - Overwatch 2 Hangzhou Spark"
+      },
+      {
+        "code": "1458173",
+        "name": "Illari - Overwatch 2 Houston Outlaws"
+      },
+      {
+        "code": "1458174",
+        "name": "Illari - London Spitfire Away"
+      },
+      {
+        "code": "1458175",
+        "name": "Illari - Overwatch 2 London Spitfire"
+      },
+      {
+        "code": "1458176",
+        "name": "Illari - Los Angeles Gladiators Away"
+      },
+      {
+        "code": "1458177",
+        "name": "Illari - Los Angeles Valiant Away_02"
+      },
+      {
+        "code": "1458199",
+        "name": "Illari - Boston Uprising Away"
+      },
+      {
+        "code": "1458200",
+        "name": "Illari - Overwatch 2 Boston Uprising"
+      },
+      {
+        "code": "1458201",
+        "name": "Illari - Overwatch 2 Atlanta Reign"
+      },
+      {
+        "code": "1458204",
+        "name": "Illari - Guangzhou Charge Away"
+      },
+      {
+        "code": "1458205",
+        "name": "Illari - Overwatch 2 Guangzhou Charge"
+      },
+      {
+        "code": "1458206",
+        "name": "Illari - Houston Outlaws Away"
+      },
+      {
+        "code": "1458207",
+        "name": "Illari - Overwatch 2 Los Angeles Gladiators Away"
+      },
+      {
+        "code": "1458208",
+        "name": "Illari - Overwatch 2 Los Angeles Valiant"
+      },
+      {
+        "code": "1458209",
+        "name": "Illari - Overwatch 2 New York Excelsior"
+      },
+      {
+        "code": "1458211",
+        "name": "Illari - Overwatch World Cup Away"
+      },
+      {
+        "code": "1458212",
+        "name": "Illari - Overwatch World Cup Home"
+      },
+      {
+        "code": "1458213",
+        "name": "Illari - San Francisco Shock Away_02"
+      },
+      {
+        "code": "1458214",
+        "name": "Illari - Shanghai Dragons Away"
+      },
+      {
+        "code": "1458215",
+        "name": "Illari - Toronto Defiant Away"
+      },
+      {
+        "code": "1458216",
+        "name": "Illari - Overwatch 2 Toronto Defiant"
+      },
+      {
+        "code": "1458217",
+        "name": "Illari - Vegas Eternal Away"
+      },
+      {
+        "code": "1458218",
+        "name": "Illari - New York Excelsior Away 2022"
+      },
+      {
+        "code": "1458220",
+        "name": "Illari - Seoul Dynasty Away"
+      },
+      {
+        "code": "1458221",
+        "name": "Illari - Overwatch 2 San Francisco Shock"
+      },
+      {
+        "code": "1458222",
+        "name": "Illari - Overwatch 2 Seoul Dynasty"
+      },
+      {
+        "code": "1458223",
+        "name": "Illari - Overwatch 2 Shanghai Dragons"
+      },
+      {
+        "code": "1458238",
+        "name": "Illari - Overwatch 2 Vancouver Titans"
+      },
+      {
+        "code": "1458239",
+        "name": "Illari - Vancouver Titans Away"
+      },
+      {
+        "code": "1458240",
+        "name": "Illari - Overwatch 2 Vegas Eternal"
+      },
+      {
+        "code": "1458241",
+        "name": "Illari - Washington Justice Away"
+      },
+      {
+        "code": "1458242",
+        "name": "Illari - Overwatch 2 Washington Justice"
+      },
+      {
+        "code": "1460690",
+        "name": "Illari - Overwatch 2 Seoul Infernal"
+      },
+      {
+        "code": "1460691",
+        "name": "Illari - Seoul Infernal Away"
+      },
+      {
+        "code": "1464426",
+        "name": "Illari - Amethyst"
+      }
+    ],
+    "Mauga": [
+      {
+        "code": "1584571",
+        "name": "Mauga - Rugby"
+      },
+      {
+        "code": "1593280",
+        "name": "Mauga - Lava"
+      },
+      {
+        "code": "1593281",
+        "name": "Mauga - Ocean"
+      },
+      {
+        "code": "1593282",
+        "name": "Mauga - Sand"
+      },
+      {
+        "code": "1593284",
+        "name": "Mauga - Palm"
+      }
+    ]
+  }
+}
