@@ -1,16 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Overwatch, Overwatch 2, Battlenet, Blizzard, OWCatalog, OW, Catalog, Cosmetics, Skins, Heroes, Bundles">
-    <meta name="description" content="OW Catalog is a website that provides you with all codes for Overwatch and Overwatch 2 cosmetics.">
+    <meta name="keywords"
+        content="Overwatch, Overwatch 2, Battlenet, Blizzard, OWCatalog, OW, Catalog, Cosmetics, Skins, Heroes, Bundles">
+    <meta name="description"
+        content="OW Catalog is a website that provides you with all codes for Overwatch and Overwatch 2 cosmetics.">
     <base href="https://localhost:3000" target="_blank">
     <meta name="author" content="astaliya">
     <title>OW Catalog</title>
     <link rel="icon" type="image/x-icon" href="https://cdn.owcatalog.de/cdn/assets/ui/favicon2.ico">
     <link rel="stylesheet" href="https://cdn.owcatalog.de/cdn/assets/css/cosmetics.css">
+    <style>
+        .nav-links a:hover {
+            color: #ED6516;
+            /* Ensure same color as .nav-links a:hover */
+            text-shadow: 0 0 8px rgb(237, 101, 22, 0.8);
+            transform: scale(1.3);
+            /* Add scaling effect */
+            transition: transform 0.2s;
+            /* Smooth transition */
+        }
+    </style>
 </head>
+
 <body>
     <div class="navbar">
         <div class="logo">
@@ -32,86 +47,92 @@
         <div class="grid-container">
             <div class="grid-item"><a href="/heroes/Ana"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Ana.webp" alt="Ana"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Ashe"><img
+            <div class="grid-item"><a href="/heroes/Ashe"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Ashe.webp" alt="Ashe"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Baptiste"><img
+            <div class="grid-item"><a href="/heroes/Baptiste"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Baptiste.webp" alt="Baptiste"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Bastion"><img
+            <div class="grid-item"><a href="/heroes/Bastion"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Bastion.webp" alt="Bastion"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Brigitte"><img
+            <div class="grid-item"><a href="/heroes/Brigitte"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Brigitte.webp" alt="Brigitte"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/D.Va"><img
+            <div class="grid-item"><a href="/heroes/D.Va"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-D.Va.webp" alt="D.Va"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Doomfist"><img
+            <div class="grid-item"><a href="/heroes/Doomfist"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Doomfist.webp" alt="Doomfist"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Echo"><img
+            <div class="grid-item"><a href="/heroes/Echo"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Echo.webp" alt="Echo"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Genji"><img
+            <div class="grid-item"><a href="/heroes/Genji"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Genji.webp" alt="Genji"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Hanzo"><img
+            <div class="grid-item"><a href="/heroes/Hanzo"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Hanzo.webp" alt="Hanzo"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Illari"><img
+            <div class="grid-item"><a href="/heroes/Illari"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Illari.webp" alt="Illari"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Junker_Queen"><img
-                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Junker_Queen.webp" alt="Junker Queen"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Junkrat"><img
+            <div class="grid-item"><a href="/heroes/Junker_Queen"><img
+                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Junker_Queen.webp" alt="Junker Queen"></a>
+            </div>
+            <div class="grid-item"><a href="/heroes/Junkrat"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Junkrat.webp" alt="Junkrat"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Juno"><img
+            <div class="grid-item"><a href="/heroes/Juno"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Juno.webp" alt="Juno"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Lifeweaver"><img
-                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Lifeweaver.webp" alt="Lifeweaver"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Lucio"><img
+            <div class="grid-item"><a href="/heroes/Lifeweaver"><img
+                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Lifeweaver.webp" alt="Lifeweaver"></a>
+            </div>
+            <div class="grid-item"><a href="/heroes/Lucio"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Lucio.webp" alt="Lucio"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Mauga"><img
+            <div class="grid-item"><a href="/heroes/Mauga"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Mauga.webp" alt="Mauga"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Mei"><img
+            <div class="grid-item"><a href="/heroes/Mei"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Mei.webp" alt="Mei"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Mercy"><img
+            <div class="grid-item"><a href="/heroes/Mercy"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Mercy.webp" alt="Mercy"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Moira"><img
+            <div class="grid-item"><a href="/heroes/Moira"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Moira.webp" alt="Moira"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Orisa"><img
+            <div class="grid-item"><a href="/heroes/Orisa"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Orisa.webp" alt="Orisa"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Pharah"><img
+            <div class="grid-item"><a href="/heroes/Pharah"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Pharah.webp" alt="Pharah"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Ramattra"><img
+            <div class="grid-item"><a href="/heroes/Ramattra"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Ramattra.webp" alt="Ramattra"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Reaper"><img
+            <div class="grid-item"><a href="/heroes/Reaper"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Reaper.webp" alt="Reaper"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Reinhardt"><img
+            <div class="grid-item"><a href="/heroes/Reinhardt"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Reinhardt.webp" alt="Reinhardt"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Roadhog"><img
+            <div class="grid-item"><a href="/heroes/Roadhog"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Roadhog.webp" alt="Roadhog"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Sigma"><img
+            <div class="grid-item"><a href="/heroes/Sigma"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Sigma.webp" alt="Sigma"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Sojourn"><img
+            <div class="grid-item"><a href="/heroes/Sojourn"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Sojourn.webp" alt="Sojourn"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Soldier76"><img
-                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Soldier_76.webp" alt="Soldier 76"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Sombra"><img
+            <div class="grid-item"><a href="/heroes/Soldier__76"><img
+                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Soldier_76.webp" alt="Soldier 76"></a>
+            </div>
+            <div class="grid-item"><a href="/heroes/Sombra"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Sombra.webp" alt="Sombra"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Symmetra"><img
+            <div class="grid-item"><a href="/heroes/Symmetra"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Symmetra.webp" alt="Symmetra"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Torbjorn"><img
+            <div class="grid-item"><a href="/heroes/Torbjorn"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Torbjorn.webp" alt="Torbjorn"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Tracer"><img
+            <div class="grid-item"><a href="/heroes/Tracer"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Tracer.webp" alt="Tracer"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Widowmaker"><img
-                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Widowmaker.webp" alt="Widowmaker"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Winston"><img
+            <div class="grid-item"><a href="/heroes/Widowmaker"><img
+                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Widowmaker.webp" alt="Widowmaker"></a>
+            </div>
+            <div class="grid-item"><a href="/heroes/Winston"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Winston.webp" alt="Winston"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Wrecking_Ball"><img
-                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Wrecking_Ball.webp" alt="Wrecking Ball"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Zarya"><img
+            <div class="grid-item"><a href="/heroes/Wrecking_Ball"><img
+                        src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Wrecking_Ball.webp"
+                        alt="Wrecking Ball"></a></div>
+            <div class="grid-item"><a href="/heroes/Zarya"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Zarya.webp" alt="Zarya"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Zenyatta"><img
+            <div class="grid-item"><a href="/heroes/Zenyatta"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-Zenyatta.webp" alt="Zenyatta"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Cassidy"><img
+            <div class="grid-item"><a href="/heroes/Cassidy"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-cassidy.webp" alt="Cassidy"></a></div>
-            <div class="grid-item"><a href="https://owcatalog.de/heroes/Kiriko"><img
+            <div class="grid-item"><a href="/heroes/Kiriko"><img
                         src="https://cdn.owcatalog.de/cdn/assets/images/Icon-kiriko.webp" alt="Kiriko"></a></div>
-    
+
         </div>
     </div>
 </body>
+
 </html>

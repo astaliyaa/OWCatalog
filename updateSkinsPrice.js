@@ -39,12 +39,15 @@ lines.forEach(line => {
     const parts = line.split(',').map(item => item.trim());
     if (parts.length < 3) return;
 
-    const [code, heroCosmetic, price] = parts;
+    // Use the first two parts for code and heroCosmetic, join the remaining parts for price
+    const code = parts[0];
+    const heroCosmetic = parts[1];
+    const priceRaw = parts.slice(2).join(',').trim();
     if (!heroCosmetic.includes(' - ')) return;
 
     const [hero, cosmeticName] = heroCosmetic.split(' - ').map(item => item.trim());
-    // Remove all commas from the price string before parsing
-    const priceValue = parseInt(price.replace(' Coins', '').replace(/,/g, '').replace(' ', '').trim(), 10) || 0;
+    // Remove all non-digit characters to get the full number
+    const priceValue = parseInt(priceRaw.replace(/[^\d]/g, ''), 10) || 0;
 
     // Sanitize hero and cosmetic name
     const sanitizedHero = sanitizeString(hero);

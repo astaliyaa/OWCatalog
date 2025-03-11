@@ -1,32 +1,41 @@
 const path = require('path');
 const fs = require('fs');
+const axios = require('axios');
+const https = require('https');
 
-const skinsFilePath = path.join(__dirname, 'CosmeticsJSON', 'Skins.json');
-const cosmeticsDir = path.join(__dirname, 'Cosmetics', 'Skins');
+const skinsFilePath = path.join(__dirname, 'skins.json');
 
-try {
-    const skinsData = JSON.parse(fs.readFileSync(skinsFilePath, 'utf8'));
-
-    function filterSkinsWithImages(skinsData) {
-        for (const hero in skinsData.Items) {
-            skinsData.Items[hero] = skinsData.Items[hero].filter(skin => {
-                const imagePath = path.join(cosmeticsDir, hero, `${skin.name}.jpg`);
-                if (fs.existsSync(imagePath)) {
-                    skin.image = `http://v21159.1blu.de:3000/Cosmetics/Skins/${hero}/${skin.name}.jpg`;
-                    return true;
+(async () => {
+    try {
+        const skinsData = JSON.parse(fs.readFileSync(skinsFilePath, 'utf8'));
+        const cdnMapUrl = 'https://cdn.owcatalog.de/cdn/cosmetics/skins/map';
+        
+        // Fetch the cosmetics map with SSL disabled
+        const response = await axios.get(cdnMapUrl, {
+            httpsAgent: new https.Agent({ rejectUnauthorized: false })
+        });
+        const cdnMap = response.data;
+        
+        function filterSkinsWithMap(skinsData, cdnMap) {
+            for (const hero in skinsData.Items) {
+                // Find folder in CDN map matching the hero name
+                const heroFolder = cdnMap.find(item => item.name.toLowerCase() === hero.toLowerCase() && item.type === 'folder');
+                if (heroFolder) {
+                    skinsData.Items[hero] = skinsData.Items[hero].filter(skin =>
+                        heroFolder.items.some(file => file.name === `${skin.name}.jpg`)
+                    );
                 } else {
-                    console.warn(`Image not found for ${hero} - ${skin.name}`);
-                    return false;
+                    console.warn(`Hero folder not found in CDN map for ${hero}`);
+                    skinsData.Items[hero] = [];
                 }
-            });
+            }
+            return skinsData;
         }
-        return skinsData;
+        
+        const updatedSkinsData = filterSkinsWithMap(skinsData, cdnMap);
+        fs.writeFileSync(skinsFilePath, JSON.stringify(updatedSkinsData, null, 4), 'utf8');
+        console.log('Skins data updated using CDN map and filtered entries without existing images.');
+    } catch (error) {
+        console.error('An error occurred:', error);
     }
-
-    const updatedSkinsData = filterSkinsWithImages(skinsData);
-
-    fs.writeFileSync(skinsFilePath, JSON.stringify(updatedSkinsData, null, 4), 'utf8');
-    console.log('Skins data updated with image fields and filtered entries without images.');
-} catch (error) {
-    console.error('An error occurred:', error);
-}
+})();
